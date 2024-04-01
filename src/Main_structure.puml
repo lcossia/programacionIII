@@ -1,0 +1,437 @@
+@startuml
+
+/' diagram meta data start
+config=StructureConfiguration;
+{
+  "projectClassification": {
+    "searchMode": "OpenProject", // OpenProject, AllProjects
+    "includedProjects": "",
+    "pathEndKeywords": "*.impl",
+    "isClientPath": "",
+    "isClientName": "",
+    "isTestPath": "",
+    "isTestName": "",
+    "isMappingPath": "",
+    "isMappingName": "",
+    "isDataAccessPath": "",
+    "isDataAccessName": "",
+    "isDataStructurePath": "",
+    "isDataStructureName": "",
+    "isInterfaceStructuresPath": "",
+    "isInterfaceStructuresName": "",
+    "isEntryPointPath": "",
+    "isEntryPointName": "",
+    "treatFinalFieldsAsMandatory": false
+  },
+  "graphRestriction": {
+    "classPackageExcludeFilter": "",
+    "classPackageIncludeFilter": "",
+    "classNameExcludeFilter": "",
+    "classNameIncludeFilter": "",
+    "methodNameExcludeFilter": "",
+    "methodNameIncludeFilter": "",
+    "removeByInheritance": "", // inheritance/annotation based filtering is done in a second step
+    "removeByAnnotation": "",
+    "removeByClassPackage": "", // cleanup the graph after inheritance/annotation based filtering is done
+    "removeByClassName": "",
+    "cutMappings": false,
+    "cutEnum": true,
+    "cutTests": true,
+    "cutClient": true,
+    "cutDataAccess": false,
+    "cutInterfaceStructures": false,
+    "cutDataStructures": false,
+    "cutGetterAndSetter": true,
+    "cutConstructors": true
+  },
+  "graphTraversal": {
+    "forwardDepth": 6,
+    "backwardDepth": 6,
+    "classPackageExcludeFilter": "",
+    "classPackageIncludeFilter": "",
+    "classNameExcludeFilter": "",
+    "classNameIncludeFilter": "",
+    "methodNameExcludeFilter": "",
+    "methodNameIncludeFilter": "",
+    "hideMappings": false,
+    "hideDataStructures": false,
+    "hidePrivateMethods": true,
+    "hideInterfaceCalls": true, // indirection: implementation -> interface (is hidden) -> implementation
+    "onlyShowApplicationEntryPoints": false, // root node is included
+    "useMethodCallsForStructureDiagram": "ForwardOnly" // ForwardOnly, BothDirections, No
+  },
+  "details": {
+    "aggregation": "GroupByClass", // ByClass, GroupByClass, None
+    "showClassGenericTypes": true,
+    "showMethods": true,
+    "showMethodParameterNames": true,
+    "showMethodParameterTypes": true,
+    "showMethodReturnType": true,
+    "showPackageLevels": 2,
+    "showDetailedClassStructure": true
+  },
+  "rootClass": "Main",
+  "extensionCallbackMethod": "" // qualified.class.name#methodName - signature: public static String method(String)
+}
+diagram meta data end '/
+
+
+
+digraph g {
+    rankdir="TB"
+    splines=polyline
+    
+
+'nodes 
+subgraph cluster_1354630684 { 
+   	label=cossia
+	labeljust=l
+	fillcolor="#ececec"
+	style=filled
+   
+   subgraph cluster_1910138932 { 
+   	label=cardgame
+	labeljust=l
+	fillcolor="#d8d8d8"
+	style=filled
+   
+   Battle1629935577[
+	label=<<TABLE BORDER="1" CELLBORDER="0" CELLPADDING="4" CELLSPACING="0">
+<TR><TD ALIGN="LEFT" >(C)Battle</TD></TR>
+<HR/>
+<TR><TD ALIGN="LEFT" >-   player1: Player [0..1]</TD></TR>
+<TR><TD ALIGN="LEFT" >-   player2: Player [0..1]</TD></TR>
+<HR/>
+<TR><TD ALIGN="LEFT" >+ customGame()</TD></TR>
+<TR><TD ALIGN="LEFT" >- handleDefeatedCard(winner: Player, loser: Player, winningCard: Card, losingCard: Card)</TD></TR>
+<TR><TD ALIGN="LEFT" >- handleWinner()</TD></TR>
+<TR><TD ALIGN="LEFT" >- performAttack(attacker: Card, defender: Card)</TD></TR>
+<TR><TD ALIGN="LEFT" >+ startFastGame()</TD></TR>
+</TABLE>>
+	style=filled
+	margin=0
+	shape=plaintext
+	fillcolor="#FFFFFF"
+];
+
+Card225437204[
+	label=<<TABLE BORDER="1" CELLBORDER="0" CELLPADDING="4" CELLSPACING="0">
+<TR><TD ALIGN="LEFT" >(C)Card</TD></TR>
+<HR/>
+<TR><TD ALIGN="LEFT" >#   age: int [1]</TD></TR>
+<TR><TD ALIGN="LEFT" >#   alias: String [0..1]</TD></TR>
+<TR><TD ALIGN="LEFT" >#   armor: int [1]</TD></TR>
+<TR><TD ALIGN="LEFT" >#   birthDate: LocalDate [0..1]</TD></TR>
+<TR><TD ALIGN="LEFT" >#   dexterity: int [1]</TD></TR>
+<TR><TD ALIGN="LEFT" >#   health: int [1]</TD></TR>
+<TR><TD ALIGN="LEFT" >#   level: int [1]</TD></TR>
+<TR><TD ALIGN="LEFT" >#   lifeExpectancy: int [1]</TD></TR>
+<TR><TD ALIGN="LEFT" >#   name: String [0..1]</TD></TR>
+<TR><TD ALIGN="LEFT" >#   race: Race [0..1]</TD></TR>
+<TR><TD ALIGN="LEFT" >#   random: RandomGenerator [0..1]</TD></TR>
+<TR><TD ALIGN="LEFT" >#   speed: int [1]</TD></TR>
+<TR><TD ALIGN="LEFT" >#   strength: int [1]</TD></TR>
+<HR/>
+<TR><TD ALIGN="LEFT" >+ attack(opponent: Card): int</TD></TR>
+<TR><TD ALIGN="LEFT" ># battleMessages(damage: int)</TD></TR>
+<TR><TD ALIGN="LEFT" >+ healthRestored()</TD></TR>
+<TR><TD ALIGN="LEFT" ># initializeSpecificAttributes()</TD></TR>
+<TR><TD ALIGN="LEFT" >+ levelIncreased()</TD></TR>
+<TR><TD ALIGN="LEFT" >+ randomPowerUp(player: Player)</TD></TR>
+<TR><TD ALIGN="LEFT" >+ receiveDamage(damage: int)</TD></TR>
+</TABLE>>
+	style=filled
+	margin=0
+	shape=plaintext
+	fillcolor="#FFFFFF"
+];
+
+DateGenerator242618210[
+	label=<<TABLE BORDER="1" CELLBORDER="0" CELLPADDING="4" CELLSPACING="0">
+<TR><TD ALIGN="LEFT" >(C)DateGenerator</TD></TR>
+<HR/>
+<TR><TD ALIGN="LEFT" >+ generateRandomBirthDate(randomGenerator: RandomGenerator, lifeExpectancy: int): LocalDate</TD></TR>
+</TABLE>>
+	style=filled
+	margin=0
+	shape=plaintext
+	fillcolor="#FFFFFF"
+];
+
+Deck1239620648[
+	label=<<TABLE BORDER="1" CELLBORDER="0" CELLPADDING="4" CELLSPACING="0">
+<TR><TD ALIGN="LEFT" >(C)Deck</TD></TR>
+<HR/>
+<TR><TD ALIGN="LEFT" >-   cards: List&lt;Card&gt; [0..*]</TD></TR>
+<TR><TD ALIGN="LEFT" >-   randomGenerator: RandomGenerator [0..1]</TD></TR>
+<TR><TD ALIGN="LEFT" >-   scanner: Scanner [0..1]</TD></TR>
+<TR><TD ALIGN="LEFT" >-   uniqueAliases: Set&lt;String&gt; [0..*]</TD></TR>
+<TR><TD ALIGN="LEFT" >-   uniqueNames: Set&lt;String&gt; [0..*]</TD></TR>
+<HR/>
+<TR><TD ALIGN="LEFT" >- assignAttributePoints(card: Card)</TD></TR>
+<TR><TD ALIGN="LEFT" >- cardsForRace(race: Race): int</TD></TR>
+<TR><TD ALIGN="LEFT" >- createCustomCard(player: Player): Card</TD></TR>
+<TR><TD ALIGN="LEFT" >- createRandomCard(race: Race): Card</TD></TR>
+<TR><TD ALIGN="LEFT" >+ deckIsEmpty(): boolean</TD></TR>
+<TR><TD ALIGN="LEFT" >+ displayCards(player: Player)</TD></TR>
+<TR><TD ALIGN="LEFT" >+ generateCustomDeck(player: Player)</TD></TR>
+<TR><TD ALIGN="LEFT" >+ generateRandomCard(): Card</TD></TR>
+<TR><TD ALIGN="LEFT" >+ generateRandomDeck(player: Player)</TD></TR>
+<TR><TD ALIGN="LEFT" >- generateUniqueAlias(race: Race): String</TD></TR>
+<TR><TD ALIGN="LEFT" >- generateUniqueName(race: Race): String</TD></TR>
+<TR><TD ALIGN="LEFT" >- getValidatedDateOfBirth(card: Card): LocalDate</TD></TR>
+<TR><TD ALIGN="LEFT" >+ removeCard(): Card</TD></TR>
+<TR><TD ALIGN="LEFT" >- selectCardType(): Card</TD></TR>
+<TR><TD ALIGN="LEFT" >- setAttributePoints(card: Card, attributeName: String, remainingPoints: int): int</TD></TR>
+<TR><TD ALIGN="LEFT" >+ shuffleDeck()</TD></TR>
+<TR><TD ALIGN="LEFT" >- validateInput(input: String, maxLength: int): String</TD></TR>
+</TABLE>>
+	style=filled
+	margin=0
+	shape=plaintext
+	fillcolor="#FFFFFF"
+];
+
+Dwarf225437204[
+	label=<<TABLE BORDER="1" CELLBORDER="0" CELLPADDING="4" CELLSPACING="0">
+<TR><TD ALIGN="LEFT" >(C)Dwarf</TD></TR>
+<HR/>
+<TR><TD ALIGN="LEFT" >+ attack(opponent: Card): int</TD></TR>
+<TR><TD ALIGN="LEFT" ># battleMessages(damage: int)</TD></TR>
+<TR><TD ALIGN="LEFT" >+ initializeSpecificAttributes()</TD></TR>
+</TABLE>>
+	style=filled
+	margin=0
+	shape=plaintext
+	fillcolor="#FFFFFF"
+];
+
+Elf225437204[
+	label=<<TABLE BORDER="1" CELLBORDER="0" CELLPADDING="4" CELLSPACING="0">
+<TR><TD ALIGN="LEFT" >(C)Elf</TD></TR>
+<HR/>
+<TR><TD ALIGN="LEFT" >+ attack(opponent: Card): int</TD></TR>
+<TR><TD ALIGN="LEFT" ># battleMessages(damage: int)</TD></TR>
+<TR><TD ALIGN="LEFT" >+ initializeSpecificAttributes()</TD></TR>
+</TABLE>>
+	style=filled
+	margin=0
+	shape=plaintext
+	fillcolor="#FFFFFF"
+];
+
+FileReader242618210[
+	label=<<TABLE BORDER="1" CELLBORDER="0" CELLPADDING="4" CELLSPACING="0">
+<TR><TD ALIGN="LEFT" >(C)FileReader</TD></TR>
+<HR/>
+<TR><TD ALIGN="LEFT" >+ showText(fileName: String)</TD></TR>
+</TABLE>>
+	style=filled
+	margin=0
+	shape=plaintext
+	fillcolor="#FFFFFF"
+];
+
+Human225437204[
+	label=<<TABLE BORDER="1" CELLBORDER="0" CELLPADDING="4" CELLSPACING="0">
+<TR><TD ALIGN="LEFT" >(C)Human</TD></TR>
+<HR/>
+<TR><TD ALIGN="LEFT" >+ attack(opponent: Card): int</TD></TR>
+<TR><TD ALIGN="LEFT" ># battleMessages(damage: int)</TD></TR>
+<TR><TD ALIGN="LEFT" >+ initializeSpecificAttributes()</TD></TR>
+</TABLE>>
+	style=filled
+	margin=0
+	shape=plaintext
+	fillcolor="#FFFFFF"
+];
+
+Logger242618210[
+	label=<<TABLE BORDER="1" CELLBORDER="0" CELLPADDING="4" CELLSPACING="0">
+<TR><TD ALIGN="LEFT" >(C)Logger</TD></TR>
+<HR/>
+<TR><TD ALIGN="LEFT" >+ clearLog()</TD></TR>
+<TR><TD ALIGN="LEFT" >+ log(message: String)</TD></TR>
+<TR><TD ALIGN="LEFT" >+ readLog(): List&lt;String&gt;</TD></TR>
+</TABLE>>
+	style=filled
+	margin=0
+	shape=plaintext
+	fillcolor="#FFFFFF"
+];
+
+Menu1239352178[
+	label=<<TABLE BORDER="1" CELLBORDER="0" CELLPADDING="4" CELLSPACING="0">
+<TR><TD ALIGN="LEFT" >(C)Menu</TD></TR>
+<HR/>
+<TR><TD ALIGN="LEFT" >-   battle: Battle [0..1]</TD></TR>
+<TR><TD ALIGN="LEFT" >-   introShowedFlag: boolean [1]</TD></TR>
+<TR><TD ALIGN="LEFT" >-   playerSetup: PlayerSetup [0..1]</TD></TR>
+<TR><TD ALIGN="LEFT" >-   scanner: Scanner [0..1]</TD></TR>
+<HR/>
+<TR><TD ALIGN="LEFT" >+ customGameMenu()</TD></TR>
+<TR><TD ALIGN="LEFT" >+ fastGameMenu()</TD></TR>
+<TR><TD ALIGN="LEFT" >+ gameOverMenu()</TD></TR>
+<TR><TD ALIGN="LEFT" >+ newGameMenu()</TD></TR>
+<TR><TD ALIGN="LEFT" >+ principalMenu()</TD></TR>
+</TABLE>>
+	style=filled
+	margin=0
+	shape=plaintext
+	fillcolor="#FFFFFF"
+];
+
+Ogre225437204[
+	label=<<TABLE BORDER="1" CELLBORDER="0" CELLPADDING="4" CELLSPACING="0">
+<TR><TD ALIGN="LEFT" >(C)Ogre</TD></TR>
+<HR/>
+<TR><TD ALIGN="LEFT" >+ attack(opponent: Card): int</TD></TR>
+<TR><TD ALIGN="LEFT" ># battleMessages(damage: int)</TD></TR>
+<TR><TD ALIGN="LEFT" >+ initializeSpecificAttributes()</TD></TR>
+</TABLE>>
+	style=filled
+	margin=0
+	shape=plaintext
+	fillcolor="#FFFFFF"
+];
+
+Player1219530160[
+	label=<<TABLE BORDER="1" CELLBORDER="0" CELLPADDING="4" CELLSPACING="0">
+<TR><TD ALIGN="LEFT" >(C)Player</TD></TR>
+<HR/>
+<TR><TD ALIGN="LEFT" >-   deadCards: List&lt;Card&gt; [0..*]</TD></TR>
+<TR><TD ALIGN="LEFT" >-   deck: Deck [0..1]</TD></TR>
+<TR><TD ALIGN="LEFT" >-   name: String [0..1]</TD></TR>
+<TR><TD ALIGN="LEFT" >-   playerHand: List&lt;Card&gt; [0..*]</TD></TR>
+<TR><TD ALIGN="LEFT" >-   score: int [1]</TD></TR>
+<HR/>
+<TR><TD ALIGN="LEFT" >+ aleatoryCardSelection()</TD></TR>
+<TR><TD ALIGN="LEFT" >+ incrementScore()</TD></TR>
+<TR><TD ALIGN="LEFT" >+ noMoreCards(): boolean</TD></TR>
+<TR><TD ALIGN="LEFT" >+ selectCard(): Card</TD></TR>
+<TR><TD ALIGN="LEFT" >+ showHand()</TD></TR>
+</TABLE>>
+	style=filled
+	margin=0
+	shape=plaintext
+	fillcolor="#FFFFFF"
+];
+
+PlayerSetup1219530160[
+	label=<<TABLE BORDER="1" CELLBORDER="0" CELLPADDING="4" CELLSPACING="0">
+<TR><TD ALIGN="LEFT" >(C)PlayerSetup</TD></TR>
+<HR/>
+<TR><TD ALIGN="LEFT" >-   deck1: Deck [0..1]</TD></TR>
+<TR><TD ALIGN="LEFT" >-   deck2: Deck [0..1]</TD></TR>
+<TR><TD ALIGN="LEFT" >-   player1: Player [0..1]</TD></TR>
+<TR><TD ALIGN="LEFT" >-   player2: Player [0..1]</TD></TR>
+<TR><TD ALIGN="LEFT" >-   scanner: Scanner [0..1]</TD></TR>
+<HR/>
+<TR><TD ALIGN="LEFT" >+ createPlayers()</TD></TR>
+<TR><TD ALIGN="LEFT" >- validateName(name: String, maxLength: int): String</TD></TR>
+</TABLE>>
+	style=filled
+	margin=0
+	shape=plaintext
+	fillcolor="#FFFFFF"
+];
+
+RandomGenerator242618210[
+	label=<<TABLE BORDER="1" CELLBORDER="0" CELLPADDING="4" CELLSPACING="0">
+<TR><TD ALIGN="LEFT" >(C)RandomGenerator</TD></TR>
+<HR/>
+<TR><TD ALIGN="LEFT" >-   random: Random [0..1]</TD></TR>
+<HR/>
+<TR><TD ALIGN="LEFT" >+ generateRandomPercentage(): double</TD></TR>
+<TR><TD ALIGN="LEFT" >+ getRandom(min: int, max: int): int</TD></TR>
+</TABLE>>
+	style=filled
+	margin=0
+	shape=plaintext
+	fillcolor="#FFFFFF"
+];
+
+Witcher225437204[
+	label=<<TABLE BORDER="1" CELLBORDER="0" CELLPADDING="4" CELLSPACING="0">
+<TR><TD ALIGN="LEFT" >(C)Witcher</TD></TR>
+<HR/>
+<TR><TD ALIGN="LEFT" >+ attack(opponent: Card): int</TD></TR>
+<TR><TD ALIGN="LEFT" ># battleMessages(damage: int)</TD></TR>
+<TR><TD ALIGN="LEFT" >+ initializeSpecificAttributes()</TD></TR>
+</TABLE>>
+	style=filled
+	margin=0
+	shape=plaintext
+	fillcolor="#FFFFFF"
+];
+} 
+} 
+
+subgraph cluster_2390489 { 
+   	label=Main
+	labeljust=l
+	fillcolor="#ececec"
+	style=filled
+   
+   Main2390489[
+	label=<<TABLE BORDER="1" CELLBORDER="0" CELLPADDING="4" CELLSPACING="0">
+<TR><TD ALIGN="LEFT" >(C)Main</TD></TR>
+<HR/>
+<TR><TD ALIGN="LEFT" >+ main(args: String[])</TD></TR>
+</TABLE>>
+	style=filled
+	margin=0
+	shape=plaintext
+	fillcolor="#FFFFFF"
+];
+} 
+
+'edges    
+Battle1629935577 -> Player1219530160[label="player1
+[0..1]"];
+Battle1629935577 -> Player1219530160[label="player2
+[0..1]"];
+Card225437204 -> Dwarf225437204[arrowhead=none, arrowtail=empty, dir=both];
+Card225437204 -> Elf225437204[arrowhead=none, arrowtail=empty, dir=both];
+Card225437204 -> Human225437204[arrowhead=none, arrowtail=empty, dir=both];
+Card225437204 -> Ogre225437204[arrowhead=none, arrowtail=empty, dir=both];
+Card225437204 -> RandomGenerator242618210[label="random
+[0..1]"];
+Card225437204 -> Witcher225437204[arrowhead=none, arrowtail=empty, dir=both];
+DateGenerator242618210 -> RandomGenerator242618210[label="generateRandomBirthDate() -> getRandom()"];
+Deck1239620648 -> Card225437204[label="cards
+[0..*]"];
+Deck1239620648 -> Dwarf225437204[label="createRandomCard() -> initializeSpecificAttributes()"];
+Deck1239620648 -> Elf225437204[label="createRandomCard() -> initializeSpecificAttributes()"];
+Deck1239620648 -> Human225437204[label="createRandomCard() -> initializeSpecificAttributes()"];
+Deck1239620648 -> Ogre225437204[label="createRandomCard() -> initializeSpecificAttributes()"];
+Deck1239620648 -> RandomGenerator242618210[label="randomGenerator
+[0..1]"];
+Deck1239620648 -> Witcher225437204[label="createRandomCard() -> initializeSpecificAttributes()"];
+Dwarf225437204 -> DateGenerator242618210[label="initializeSpecificAttributes() -> generateRandomBirthDate()"];
+Elf225437204 -> DateGenerator242618210[label="initializeSpecificAttributes() -> generateRandomBirthDate()"];
+Human225437204 -> DateGenerator242618210[label="initializeSpecificAttributes() -> generateRandomBirthDate()"];
+Main2390489 -> Menu1239352178[label="main() -> principalMenu()"];
+Menu1239352178 -> Battle1629935577[label="battle
+[0..1]"];
+Menu1239352178 -> PlayerSetup1219530160[label="playerSetup
+[0..1]"];
+Ogre225437204 -> DateGenerator242618210[label="initializeSpecificAttributes() -> generateRandomBirthDate()"];
+Player1219530160 -> Card225437204[label="deadCards
+[0..*]"];
+Player1219530160 -> Card225437204[label="playerHand
+[0..*]"];
+Player1219530160 -> Deck1239620648[label="deck
+[0..1]"];
+PlayerSetup1219530160 -> Deck1239620648[label="deck1
+[0..1]"];
+PlayerSetup1219530160 -> Deck1239620648[label="deck2
+[0..1]"];
+PlayerSetup1219530160 -> Player1219530160[label="player1
+[0..1]"];
+PlayerSetup1219530160 -> Player1219530160[label="player2
+[0..1]"];
+Witcher225437204 -> DateGenerator242618210[label="initializeSpecificAttributes() -> generateRandomBirthDate()"];
+    
+}
+@enduml

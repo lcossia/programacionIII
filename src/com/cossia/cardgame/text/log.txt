@@ -1,0 +1,1871 @@
+[2024-04-01 11:40:51] Se ha agregado 1 carta a la mano de lucho
+[2024-04-01 11:40:51] Se ha agregado 1 carta a la mano de lucho
+[2024-04-01 11:40:51] Se ha agregado 1 carta a la mano de lucho
+[2024-04-01 11:40:51] Se ha agregado 1 carta a la mano de aylen
+[2024-04-01 11:40:51] Se ha agregado 1 carta a la mano de aylen
+[2024-04-01 11:40:51] Se ha agregado 1 carta a la mano de aylen
+[2024-04-01 11:40:51] 
+Las cartas de lucho son las siguientes:
+
+[2024-04-01 11:40:51] Carta {Raza=null, Nombre='enano trolo', Alias='putito', Fecha Nacimiento=1990-03-01, Edad=34, Nivel=1, Vida=100, Fuerza=15, Velocidad=10, Destreza=10, Armadura=10}
+[2024-04-01 11:40:51] ----------
+
+[2024-04-01 11:40:51] Carta {Raza=WITCHER, Nombre='Zephyr Darkspell', Alias='La Sombra Encantada', Fecha Nacimiento=1994-12-26, Edad=29, Nivel=1, Vida=100, Fuerza=6, Velocidad=20, Destreza=11, Armadura=6}
+[2024-04-01 11:40:51] ----------
+
+[2024-04-01 11:40:51] Carta {Raza=WITCHER, Nombre='Malachius Thorne', Alias='El Maestro de las Runas', Fecha Nacimiento=1741-07-27, Edad=282, Nivel=1, Vida=100, Fuerza=10, Velocidad=15, Destreza=13, Armadura=9}
+[2024-04-01 11:40:51] ----------
+
+[2024-04-01 11:40:51] 
+Las cartas de aylen son las siguientes:
+
+[2024-04-01 11:40:51] Carta {Raza=DWARF, Nombre='Balin', Alias='El Forjador', Fecha Nacimiento=1935-02-28, Edad=89, Nivel=1, Vida=100, Fuerza=11, Velocidad=10, Destreza=6, Armadura=17}
+[2024-04-01 11:40:51] ----------
+
+[2024-04-01 11:40:51] Carta {Raza=ELF, Nombre='Agis', Alias='El Bosque', Fecha Nacimiento=1984-12-06, Edad=39, Nivel=1, Vida=100, Fuerza=8, Velocidad=10, Destreza=15, Armadura=8}
+[2024-04-01 11:40:51] ----------
+
+[2024-04-01 11:40:51] Carta {Raza=HUMAN, Nombre='Drugo', Alias='El Noble', Fecha Nacimiento=2015-04-03, Edad=8, Nivel=1, Vida=100, Fuerza=9, Velocidad=14, Destreza=12, Armadura=14}
+[2024-04-01 11:40:51] ----------
+
+[2024-04-01 11:40:51] lucho seleccionó: Zephyr Darkspell La Sombra Encantada
+[2024-04-01 11:40:51] aylen seleccionó: Agis El Bosque
+[2024-04-01 11:40:51] 
+----- Ronda 1 -----
+[2024-04-01 11:40:51] Es el turno de Agis El Bosque
+[2024-04-01 11:40:51] Agis: 'Tu vida se agotará más rápido que la mía!!!'
+[2024-04-01 11:40:51] Agis El Bosque ataca a Zephyr Darkspell La Sombra Encantada y causa -31 puntos de daño.
+[2024-04-01 11:40:51] La vida de Zephyr Darkspell La Sombra Encantada es de 71 puntos.
+[2024-04-01 11:40:51] Es el turno de Zephyr Darkspell La Sombra Encantada
+[2024-04-01 11:40:51] Zephyr Darkspell: 'Su ki es muy alto!!!'
+[2024-04-01 11:40:51] Zephyr Darkspell La Sombra Encantada ataca a Agis El Bosque y causa -8 puntos de daño.
+[2024-04-01 11:40:51] La vida de Agis El Bosque es de 92 puntos.
+[2024-04-01 11:40:51] 
+----- Ronda 2 -----
+[2024-04-01 11:40:51] Es el turno de Zephyr Darkspell La Sombra Encantada
+[2024-04-01 11:40:51] Zephyr Darkspell: 'Su ki es muy alto!!!'
+[2024-04-01 11:40:51] Zephyr Darkspell La Sombra Encantada ataca a Agis El Bosque y causa -9 puntos de daño.
+[2024-04-01 11:40:51] La vida de Agis El Bosque es de 83 puntos.
+[2024-04-01 11:40:51] Es el turno de Agis El Bosque
+[2024-04-01 11:40:51] Agis: 'Tu vida se agotará más rápido que la mía!!!'
+[2024-04-01 11:40:51] Agis El Bosque ataca a Zephyr Darkspell La Sombra Encantada y causa -27 puntos de daño.
+[2024-04-01 11:40:51] La vida de Zephyr Darkspell La Sombra Encantada es de 46 puntos.
+[2024-04-01 11:40:51] 
+----- Ronda 3 -----
+[2024-04-01 11:40:51] Es el turno de Zephyr Darkspell La Sombra Encantada
+[2024-04-01 11:40:51] Zephyr Darkspell: 'Su ki es muy alto!!!'
+[2024-04-01 11:40:51] Zephyr Darkspell La Sombra Encantada ataca a Agis El Bosque y causa -6 puntos de daño.
+[2024-04-01 11:40:51] La vida de Agis El Bosque es de 77 puntos.
+[2024-04-01 11:40:51] Es el turno de Agis El Bosque
+[2024-04-01 11:40:51] Agis: 'Tu vida se agotará más rápido que la mía!!!'
+[2024-04-01 11:40:51] Agis El Bosque ataca a Zephyr Darkspell La Sombra Encantada y causa -30 puntos de daño.
+[2024-04-01 11:40:51] La vida de Zephyr Darkspell La Sombra Encantada es de 18 puntos.
+[2024-04-01 11:40:51] 
+----- Ronda 4 -----
+[2024-04-01 11:40:51] Es el turno de Zephyr Darkspell La Sombra Encantada
+[2024-04-01 11:40:51] Zephyr Darkspell: 'Su ki es muy alto!!!'
+[2024-04-01 11:40:51] Zephyr Darkspell La Sombra Encantada ataca a Agis El Bosque y causa -7 puntos de daño.
+[2024-04-01 11:40:51] La vida de Agis El Bosque es de 70 puntos.
+[2024-04-01 11:40:51] Es el turno de Agis El Bosque
+[2024-04-01 11:40:51] Agis: 'Si que sabes defenderte!!!'
+[2024-04-01 11:40:51] Agis El Bosque ataca a Zephyr Darkspell La Sombra Encantada y causa -19 puntos de daño.
+[2024-04-01 11:40:51] La vida de Zephyr Darkspell La Sombra Encantada es de 0 puntos.
+[2024-04-01 11:40:51] Zephyr Darkspell La Sombra Encantada ha sido derrotado!
+[2024-04-01 11:40:51] Agis ha subido de nivel a 2!
+[2024-04-01 11:40:51] 
+Las cartas de lucho son las siguientes:
+
+[2024-04-01 11:40:51] Carta {Raza=null, Nombre='enano trolo', Alias='putito', Fecha Nacimiento=1990-03-01, Edad=34, Nivel=1, Vida=100, Fuerza=15, Velocidad=10, Destreza=10, Armadura=10}
+[2024-04-01 11:40:51] ----------
+
+[2024-04-01 11:40:51] Carta {Raza=WITCHER, Nombre='Malachius Thorne', Alias='El Maestro de las Runas', Fecha Nacimiento=1741-07-27, Edad=282, Nivel=1, Vida=100, Fuerza=10, Velocidad=15, Destreza=13, Armadura=9}
+[2024-04-01 11:40:51] ----------
+
+[2024-04-01 11:40:51] 
+Las cartas de aylen son las siguientes:
+
+[2024-04-01 11:40:51] Carta {Raza=DWARF, Nombre='Balin', Alias='El Forjador', Fecha Nacimiento=1935-02-28, Edad=89, Nivel=1, Vida=100, Fuerza=11, Velocidad=10, Destreza=6, Armadura=17}
+[2024-04-01 11:40:51] ----------
+
+[2024-04-01 11:40:51] Carta {Raza=HUMAN, Nombre='Drugo', Alias='El Noble', Fecha Nacimiento=2015-04-03, Edad=8, Nivel=1, Vida=100, Fuerza=9, Velocidad=14, Destreza=12, Armadura=14}
+[2024-04-01 11:40:51] ----------
+
+[2024-04-01 11:40:51] Carta {Raza=ELF, Nombre='Agis', Alias='El Bosque', Fecha Nacimiento=1984-12-06, Edad=39, Nivel=2, Vida=70, Fuerza=8, Velocidad=10, Destreza=15, Armadura=8}
+[2024-04-01 11:40:51] ----------
+
+[2024-04-01 11:40:51] lucho seleccionó: Malachius Thorne El Maestro de las Runas
+[2024-04-01 11:40:51] aylen seleccionó: Balin El Forjador
+[2024-04-01 11:40:51] 
+----- Ronda 1 -----
+[2024-04-01 11:40:51] Es el turno de Balin El Forjador
+[2024-04-01 11:40:51] Balin: 'Su hacha se enciende y acesta un Golpe Crítico!!!'
+[2024-04-01 11:40:51] Balin El Forjador ataca a Malachius Thorne El Maestro de las Runas y causa -52 puntos de daño.
+[2024-04-01 11:40:51] La vida de Malachius Thorne El Maestro de las Runas es de 51 puntos.
+[2024-04-01 11:40:51] Es el turno de Malachius Thorne El Maestro de las Runas
+[2024-04-01 11:40:51] Malachius Thorne: 'Su ki es muy alto!!!'
+[2024-04-01 11:40:51] Malachius Thorne El Maestro de las Runas ataca a Balin El Forjador y causa -18 puntos de daño.
+[2024-04-01 11:40:51] La vida de Balin El Forjador es de 83 puntos.
+[2024-04-01 11:40:51] 
+----- Ronda 2 -----
+[2024-04-01 11:40:51] Es el turno de Malachius Thorne El Maestro de las Runas
+[2024-04-01 11:40:51] Malachius Thorne: 'Su ki es muy alto!!!'
+[2024-04-01 11:40:51] Malachius Thorne El Maestro de las Runas ataca a Balin El Forjador y causa -8 puntos de daño.
+[2024-04-01 11:40:51] La vida de Balin El Forjador es de 75 puntos.
+[2024-04-01 11:40:51] Es el turno de Balin El Forjador
+[2024-04-01 11:40:51] Balin: 'Su hacha se enciende y acesta un Golpe Crítico!!!'
+[2024-04-01 11:40:51] Balin El Forjador ataca a Malachius Thorne El Maestro de las Runas y causa -51 puntos de daño.
+[2024-04-01 11:40:51] La vida de Malachius Thorne El Maestro de las Runas es de 3 puntos.
+[2024-04-01 11:40:51] 
+----- Ronda 3 -----
+[2024-04-01 11:40:51] Es el turno de Malachius Thorne El Maestro de las Runas
+[2024-04-01 11:40:51] Malachius Thorne: 'Su ki es muy alto!!!'
+[2024-04-01 11:40:51] Malachius Thorne El Maestro de las Runas ataca a Balin El Forjador y causa -18 puntos de daño.
+[2024-04-01 11:40:51] La vida de Balin El Forjador es de 58 puntos.
+[2024-04-01 11:40:51] Es el turno de Balin El Forjador
+[2024-04-01 11:40:51] Balin: 'Su hacha se enciende y acesta un Golpe Crítico!!!'
+[2024-04-01 11:40:51] Balin El Forjador ataca a Malachius Thorne El Maestro de las Runas y causa -50 puntos de daño.
+[2024-04-01 11:40:51] La vida de Malachius Thorne El Maestro de las Runas es de 0 puntos.
+[2024-04-01 11:40:51] Malachius Thorne El Maestro de las Runas ha sido derrotado!
+[2024-04-01 11:40:51] No se puede recuperar una carta en este momento. Se restaurará la vida de Balin El Forjador.
+[2024-04-01 11:40:51] 
+Las cartas de lucho son las siguientes:
+
+[2024-04-01 11:40:51] Carta {Raza=null, Nombre='enano trolo', Alias='putito', Fecha Nacimiento=1990-03-01, Edad=34, Nivel=1, Vida=100, Fuerza=15, Velocidad=10, Destreza=10, Armadura=10}
+[2024-04-01 11:40:51] ----------
+
+[2024-04-01 11:40:51] 
+Las cartas de aylen son las siguientes:
+
+[2024-04-01 11:40:51] Carta {Raza=HUMAN, Nombre='Drugo', Alias='El Noble', Fecha Nacimiento=2015-04-03, Edad=8, Nivel=1, Vida=100, Fuerza=9, Velocidad=14, Destreza=12, Armadura=14}
+[2024-04-01 11:40:51] ----------
+
+[2024-04-01 11:40:51] Carta {Raza=ELF, Nombre='Agis', Alias='El Bosque', Fecha Nacimiento=1984-12-06, Edad=39, Nivel=2, Vida=70, Fuerza=8, Velocidad=10, Destreza=15, Armadura=8}
+[2024-04-01 11:40:51] ----------
+
+[2024-04-01 11:40:51] Carta {Raza=DWARF, Nombre='Balin', Alias='El Forjador', Fecha Nacimiento=1935-02-28, Edad=89, Nivel=1, Vida=100, Fuerza=11, Velocidad=10, Destreza=6, Armadura=17}
+[2024-04-01 11:40:51] ----------
+
+[2024-04-01 11:40:51] lucho seleccionó: enano trolo putito
+[2024-04-01 11:40:51] aylen seleccionó: Agis El Bosque
+[2024-04-01 11:40:51] 
+----- Ronda 1 -----
+[2024-04-01 11:40:51] Es el turno de Agis El Bosque
+[2024-04-01 11:40:51] Agis: 'Los vientos han desviado mi disparo...'
+[2024-04-01 11:40:51] Agis El Bosque ataca a enano trolo putito y causa 0 puntos de daño.
+[2024-04-01 11:40:51] La vida de enano trolo putito es de 100 puntos.
+[2024-04-01 11:40:51] Es el turno de enano trolo putito
+[2024-04-01 11:40:51] enano trolo: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 11:40:51] enano trolo putito ataca a Agis El Bosque y causa -11 puntos de daño.
+[2024-04-01 11:40:51] La vida de Agis El Bosque es de 59 puntos.
+[2024-04-01 11:40:51] 
+----- Ronda 2 -----
+[2024-04-01 11:40:51] Es el turno de Agis El Bosque
+[2024-04-01 11:40:51] Agis: 'Los vientos han desviado mi disparo...'
+[2024-04-01 11:40:51] Agis El Bosque ataca a enano trolo putito y causa 0 puntos de daño.
+[2024-04-01 11:40:51] La vida de enano trolo putito es de 100 puntos.
+[2024-04-01 11:40:51] Es el turno de enano trolo putito
+[2024-04-01 11:40:51] enano trolo: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 11:40:51] enano trolo putito ataca a Agis El Bosque y causa -6 puntos de daño.
+[2024-04-01 11:40:51] La vida de Agis El Bosque es de 53 puntos.
+[2024-04-01 11:40:51] 
+----- Ronda 3 -----
+[2024-04-01 11:40:51] Es el turno de Agis El Bosque
+[2024-04-01 11:40:51] Agis: 'Los vientos han desviado mi disparo...'
+[2024-04-01 11:40:51] Agis El Bosque ataca a enano trolo putito y causa 0 puntos de daño.
+[2024-04-01 11:40:51] La vida de enano trolo putito es de 100 puntos.
+[2024-04-01 11:40:51] Es el turno de enano trolo putito
+[2024-04-01 11:40:51] enano trolo: 'Mi hacha debe estar desafilada...'
+[2024-04-01 11:40:51] enano trolo putito ataca a Agis El Bosque y causa 0 puntos de daño.
+[2024-04-01 11:40:51] La vida de Agis El Bosque es de 53 puntos.
+[2024-04-01 11:40:51] 
+----- Ronda 4 -----
+[2024-04-01 11:40:51] Es el turno de Agis El Bosque
+[2024-04-01 11:40:51] Agis: 'Si que sabes defenderte!!!'
+[2024-04-01 11:40:51] Agis El Bosque ataca a enano trolo putito y causa -9 puntos de daño.
+[2024-04-01 11:40:51] La vida de enano trolo putito es de 91 puntos.
+[2024-04-01 11:40:51] Es el turno de enano trolo putito
+[2024-04-01 11:40:51] enano trolo: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 11:40:51] enano trolo putito ataca a Agis El Bosque y causa -4 puntos de daño.
+[2024-04-01 11:40:51] La vida de Agis El Bosque es de 49 puntos.
+[2024-04-01 11:40:51] 
+----- Ronda 5 -----
+[2024-04-01 11:40:51] Es el turno de Agis El Bosque
+[2024-04-01 11:40:51] Agis: 'Si que sabes defenderte!!!'
+[2024-04-01 11:40:51] Agis El Bosque ataca a enano trolo putito y causa -4 puntos de daño.
+[2024-04-01 11:40:51] La vida de enano trolo putito es de 87 puntos.
+[2024-04-01 11:40:51] Es el turno de enano trolo putito
+[2024-04-01 11:40:51] enano trolo: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 11:40:51] enano trolo putito ataca a Agis El Bosque y causa -2 puntos de daño.
+[2024-04-01 11:40:51] La vida de Agis El Bosque es de 47 puntos.
+[2024-04-01 11:40:51] 
+----- Ronda 6 -----
+[2024-04-01 11:40:51] Es el turno de Agis El Bosque
+[2024-04-01 11:40:51] Agis: 'Si que sabes defenderte!!!'
+[2024-04-01 11:40:51] Agis El Bosque ataca a enano trolo putito y causa -8 puntos de daño.
+[2024-04-01 11:40:51] La vida de enano trolo putito es de 79 puntos.
+[2024-04-01 11:40:51] Es el turno de enano trolo putito
+[2024-04-01 11:40:51] enano trolo: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 11:40:51] enano trolo putito ataca a Agis El Bosque y causa -19 puntos de daño.
+[2024-04-01 11:40:51] La vida de Agis El Bosque es de 29 puntos.
+[2024-04-01 11:40:51] 
+----- Ronda 7 -----
+[2024-04-01 11:40:51] Es el turno de Agis El Bosque
+[2024-04-01 11:40:51] Agis: 'Los vientos han desviado mi disparo...'
+[2024-04-01 11:40:51] Agis El Bosque ataca a enano trolo putito y causa 0 puntos de daño.
+[2024-04-01 11:40:51] La vida de enano trolo putito es de 79 puntos.
+[2024-04-01 11:40:51] Es el turno de enano trolo putito
+[2024-04-01 11:40:51] enano trolo: 'Mi hacha debe estar desafilada...'
+[2024-04-01 11:40:51] enano trolo putito ataca a Agis El Bosque y causa 0 puntos de daño.
+[2024-04-01 11:40:51] La vida de Agis El Bosque es de 29 puntos.
+[2024-04-01 11:40:51] 
+Las cartas de lucho son las siguientes:
+
+[2024-04-01 11:40:51] Carta {Raza=null, Nombre='enano trolo', Alias='putito', Fecha Nacimiento=1990-03-01, Edad=34, Nivel=1, Vida=79, Fuerza=15, Velocidad=10, Destreza=10, Armadura=10}
+[2024-04-01 11:40:51] ----------
+
+[2024-04-01 11:40:51] 
+Las cartas de aylen son las siguientes:
+
+[2024-04-01 11:40:51] Carta {Raza=HUMAN, Nombre='Drugo', Alias='El Noble', Fecha Nacimiento=2015-04-03, Edad=8, Nivel=1, Vida=100, Fuerza=9, Velocidad=14, Destreza=12, Armadura=14}
+[2024-04-01 11:40:51] ----------
+
+[2024-04-01 11:40:51] Carta {Raza=DWARF, Nombre='Balin', Alias='El Forjador', Fecha Nacimiento=1935-02-28, Edad=89, Nivel=1, Vida=100, Fuerza=11, Velocidad=10, Destreza=6, Armadura=17}
+[2024-04-01 11:40:51] ----------
+
+[2024-04-01 11:40:51] Carta {Raza=ELF, Nombre='Agis', Alias='El Bosque', Fecha Nacimiento=1984-12-06, Edad=39, Nivel=2, Vida=29, Fuerza=8, Velocidad=10, Destreza=15, Armadura=8}
+[2024-04-01 11:40:51] ----------
+
+[2024-04-01 11:40:51] lucho seleccionó: enano trolo putito
+[2024-04-01 11:40:51] aylen seleccionó: Drugo El Noble
+[2024-04-01 11:40:51] 
+----- Ronda 1 -----
+[2024-04-01 11:40:51] Es el turno de enano trolo putito
+[2024-04-01 11:40:51] enano trolo: 'Jaaa!! Ese golpe lo has sentido!!!'
+[2024-04-01 11:40:51] enano trolo putito ataca a Drugo El Noble y causa -25 puntos de daño.
+[2024-04-01 11:40:51] La vida de Drugo El Noble es de 76 puntos.
+[2024-04-01 11:40:51] Es el turno de Drugo El Noble
+[2024-04-01 11:40:51] Drugo: 'Eres muy hábil esquivando!!!'
+[2024-04-01 11:40:51] Drugo El Noble ataca a enano trolo putito y causa -16 puntos de daño.
+[2024-04-01 11:40:51] La vida de enano trolo putito es de 63 puntos.
+[2024-04-01 11:40:51] 
+----- Ronda 2 -----
+[2024-04-01 11:40:51] Es el turno de enano trolo putito
+[2024-04-01 11:40:51] enano trolo: 'Jaaa!! Ese golpe lo has sentido!!!'
+[2024-04-01 11:40:51] enano trolo putito ataca a Drugo El Noble y causa -23 puntos de daño.
+[2024-04-01 11:40:51] La vida de Drugo El Noble es de 54 puntos.
+[2024-04-01 11:40:51] Es el turno de Drugo El Noble
+[2024-04-01 11:40:51] Drugo: 'Eres muy hábil esquivando!!!'
+[2024-04-01 11:40:51] Drugo El Noble ataca a enano trolo putito y causa -20 puntos de daño.
+[2024-04-01 11:40:51] La vida de enano trolo putito es de 43 puntos.
+[2024-04-01 11:40:51] 
+----- Ronda 3 -----
+[2024-04-01 11:40:51] Es el turno de enano trolo putito
+[2024-04-01 11:40:51] enano trolo: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 11:40:51] enano trolo putito ataca a Drugo El Noble y causa -16 puntos de daño.
+[2024-04-01 11:40:51] La vida de Drugo El Noble es de 39 puntos.
+[2024-04-01 11:40:51] Es el turno de Drugo El Noble
+[2024-04-01 11:40:51] Drugo: 'Eres muy hábil esquivando!!!'
+[2024-04-01 11:40:51] Drugo El Noble ataca a enano trolo putito y causa -19 puntos de daño.
+[2024-04-01 11:40:51] La vida de enano trolo putito es de 24 puntos.
+[2024-04-01 11:40:51] 
+----- Ronda 4 -----
+[2024-04-01 11:40:51] Es el turno de enano trolo putito
+[2024-04-01 11:40:51] enano trolo: 'Jaaa!! Ese golpe lo has sentido!!!'
+[2024-04-01 11:40:51] enano trolo putito ataca a Drugo El Noble y causa -29 puntos de daño.
+[2024-04-01 11:40:51] La vida de Drugo El Noble es de 12 puntos.
+[2024-04-01 11:40:51] Es el turno de Drugo El Noble
+[2024-04-01 11:40:51] Drugo: 'Eres muy hábil esquivando!!!'
+[2024-04-01 11:40:51] Drugo El Noble ataca a enano trolo putito y causa -11 puntos de daño.
+[2024-04-01 11:40:51] La vida de enano trolo putito es de 13 puntos.
+[2024-04-01 11:40:51] 
+----- Ronda 5 -----
+[2024-04-01 11:40:51] Es el turno de Drugo El Noble
+[2024-04-01 11:40:51] Drugo: 'Terminemos con esto de una vez!!!'
+[2024-04-01 11:40:51] Drugo El Noble ataca a enano trolo putito y causa -28 puntos de daño.
+[2024-04-01 11:40:51] La vida de enano trolo putito es de 0 puntos.
+[2024-04-01 11:40:51] enano trolo putito ha sido derrotado!
+[2024-04-01 11:40:51] No se puede recuperar una carta en este momento. Se restaurará la vida de Drugo El Noble.
+[2024-04-01 11:40:51] 
+Las cartas de lucho son las siguientes:
+
+[2024-04-01 11:40:51] Sin cartas en la mano de lucho
+[2024-04-01 11:40:51] 
+Las cartas de aylen son las siguientes:
+
+[2024-04-01 11:40:51] Carta {Raza=DWARF, Nombre='Balin', Alias='El Forjador', Fecha Nacimiento=1935-02-28, Edad=89, Nivel=1, Vida=100, Fuerza=11, Velocidad=10, Destreza=6, Armadura=17}
+[2024-04-01 11:40:51] ----------
+
+[2024-04-01 11:40:51] Carta {Raza=ELF, Nombre='Agis', Alias='El Bosque', Fecha Nacimiento=1984-12-06, Edad=39, Nivel=2, Vida=29, Fuerza=8, Velocidad=10, Destreza=15, Armadura=8}
+[2024-04-01 11:40:51] ----------
+
+[2024-04-01 11:40:51] Carta {Raza=HUMAN, Nombre='Drugo', Alias='El Noble', Fecha Nacimiento=2015-04-03, Edad=8, Nivel=1, Vida=100, Fuerza=9, Velocidad=14, Destreza=12, Armadura=14}
+[2024-04-01 11:40:51] ----------
+
+[2024-04-01 11:40:51] Fin del Juego
+[2024-04-01 11:40:51] Puntaje de lucho: 0
+[2024-04-01 11:40:51] Puntaje de aylen: 3
+[2024-04-01 11:40:51] aylen ha conquistado el trono de hierro!
+[2024-04-01 11:41:52] Se ha agregado 1 carta a la mano de Lucho
+[2024-04-01 11:41:52] Se ha agregado 1 carta a la mano de Lucho
+[2024-04-01 11:41:52] Se ha agregado 1 carta a la mano de Lucho
+[2024-04-01 11:41:52] Se ha agregado 1 carta a la mano de Aylen
+[2024-04-01 11:41:52] Se ha agregado 1 carta a la mano de Aylen
+[2024-04-01 11:41:52] Se ha agregado 1 carta a la mano de Aylen
+[2024-04-01 11:41:53] 
+Las cartas de Lucho son las siguientes:
+
+[2024-04-01 11:41:53] Carta {Raza=HUMAN, Nombre='Longshard', Alias='El Valiente', Fecha Nacimiento=1981-06-29, Edad=42, Nivel=1, Vida=100, Fuerza=8, Velocidad=14, Destreza=11, Armadura=10}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] Carta {Raza=ELF, Nombre='Elowen', Alias='El Bosque', Fecha Nacimiento=1928-06-23, Edad=95, Nivel=1, Vida=100, Fuerza=10, Velocidad=11, Destreza=18, Armadura=9}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] Carta {Raza=WITCHER, Nombre='Beck Riddle', Alias='La Bruja de las Sombras', Fecha Nacimiento=1915-12-22, Edad=108, Nivel=1, Vida=100, Fuerza=6, Velocidad=15, Destreza=12, Armadura=10}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] 
+Las cartas de Aylen son las siguientes:
+
+[2024-04-01 11:41:53] Carta {Raza=ELF, Nombre='Agis', Alias='El Bosque', Fecha Nacimiento=1975-04-24, Edad=48, Nivel=1, Vida=100, Fuerza=7, Velocidad=13, Destreza=15, Armadura=7}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] Carta {Raza=ELF, Nombre='Galadria', Alias='El Brillante', Fecha Nacimiento=1839-10-16, Edad=184, Nivel=1, Vida=100, Fuerza=6, Velocidad=11, Destreza=17, Armadura=9}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] Carta {Raza=ELF, Nombre='Elandril', Alias='El Veloz', Fecha Nacimiento=1939-07-27, Edad=84, Nivel=1, Vida=100, Fuerza=10, Velocidad=14, Destreza=18, Armadura=10}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] Lucho seleccionó: Elowen El Bosque
+[2024-04-01 11:41:53] Aylen seleccionó: Elandril El Veloz
+[2024-04-01 11:41:53] 
+----- Ronda 1 -----
+[2024-04-01 11:41:53] Es el turno de Elandril El Veloz
+[2024-04-01 11:41:53] Elandril: 'Si que sabes defenderte!!!'
+[2024-04-01 11:41:53] Elandril El Veloz ataca a Elowen El Bosque y causa -4 puntos de daño.
+[2024-04-01 11:41:53] La vida de Elowen El Bosque es de 96 puntos.
+[2024-04-01 11:41:53] Es el turno de Elowen El Bosque
+[2024-04-01 11:41:53] Elowen: 'Tu vida se agotará más rápido que la mía!!!'
+[2024-04-01 11:41:53] Elowen El Bosque ataca a Elandril El Veloz y causa -24 puntos de daño.
+[2024-04-01 11:41:53] La vida de Elandril El Veloz es de 77 puntos.
+[2024-04-01 11:41:53] 
+----- Ronda 2 -----
+[2024-04-01 11:41:53] Es el turno de Elandril El Veloz
+[2024-04-01 11:41:53] Elandril: 'Si que sabes defenderte!!!'
+[2024-04-01 11:41:53] Elandril El Veloz ataca a Elowen El Bosque y causa -16 puntos de daño.
+[2024-04-01 11:41:53] La vida de Elowen El Bosque es de 81 puntos.
+[2024-04-01 11:41:53] Es el turno de Elowen El Bosque
+[2024-04-01 11:41:53] Elowen: 'Si que sabes defenderte!!!'
+[2024-04-01 11:41:53] Elowen El Bosque ataca a Elandril El Veloz y causa -8 puntos de daño.
+[2024-04-01 11:41:53] La vida de Elandril El Veloz es de 69 puntos.
+[2024-04-01 11:41:53] 
+----- Ronda 3 -----
+[2024-04-01 11:41:53] Es el turno de Elandril El Veloz
+[2024-04-01 11:41:53] Elandril: 'Si que sabes defenderte!!!'
+[2024-04-01 11:41:53] Elandril El Veloz ataca a Elowen El Bosque y causa -18 puntos de daño.
+[2024-04-01 11:41:53] La vida de Elowen El Bosque es de 64 puntos.
+[2024-04-01 11:41:53] Es el turno de Elowen El Bosque
+[2024-04-01 11:41:53] Elowen: 'Tu vida se agotará más rápido que la mía!!!'
+[2024-04-01 11:41:53] Elowen El Bosque ataca a Elandril El Veloz y causa -25 puntos de daño.
+[2024-04-01 11:41:53] La vida de Elandril El Veloz es de 45 puntos.
+[2024-04-01 11:41:53] 
+----- Ronda 4 -----
+[2024-04-01 11:41:53] Es el turno de Elandril El Veloz
+[2024-04-01 11:41:53] Elandril: 'Los vientos han desviado mi disparo...'
+[2024-04-01 11:41:53] Elandril El Veloz ataca a Elowen El Bosque y causa 0 puntos de daño.
+[2024-04-01 11:41:53] La vida de Elowen El Bosque es de 64 puntos.
+[2024-04-01 11:41:53] Es el turno de Elowen El Bosque
+[2024-04-01 11:41:53] Elowen: 'Los vientos han desviado mi disparo...'
+[2024-04-01 11:41:53] Elowen El Bosque ataca a Elandril El Veloz y causa 0 puntos de daño.
+[2024-04-01 11:41:53] La vida de Elandril El Veloz es de 45 puntos.
+[2024-04-01 11:41:53] 
+----- Ronda 5 -----
+[2024-04-01 11:41:53] Es el turno de Elandril El Veloz
+[2024-04-01 11:41:53] Elandril: 'Los vientos han desviado mi disparo...'
+[2024-04-01 11:41:53] Elandril El Veloz ataca a Elowen El Bosque y causa 0 puntos de daño.
+[2024-04-01 11:41:53] La vida de Elowen El Bosque es de 64 puntos.
+[2024-04-01 11:41:53] Es el turno de Elowen El Bosque
+[2024-04-01 11:41:53] Elowen: 'Si que sabes defenderte!!!'
+[2024-04-01 11:41:53] Elowen El Bosque ataca a Elandril El Veloz y causa -18 puntos de daño.
+[2024-04-01 11:41:53] La vida de Elandril El Veloz es de 28 puntos.
+[2024-04-01 11:41:53] 
+----- Ronda 6 -----
+[2024-04-01 11:41:53] Es el turno de Elandril El Veloz
+[2024-04-01 11:41:53] Elandril: 'Tu vida se agotará más rápido que la mía!!!'
+[2024-04-01 11:41:53] Elandril El Veloz ataca a Elowen El Bosque y causa -22 puntos de daño.
+[2024-04-01 11:41:53] La vida de Elowen El Bosque es de 43 puntos.
+[2024-04-01 11:41:53] Es el turno de Elowen El Bosque
+[2024-04-01 11:41:53] Elowen: 'Tu vida se agotará más rápido que la mía!!!'
+[2024-04-01 11:41:53] Elowen El Bosque ataca a Elandril El Veloz y causa -23 puntos de daño.
+[2024-04-01 11:41:53] La vida de Elandril El Veloz es de 6 puntos.
+[2024-04-01 11:41:53] 
+----- Ronda 7 -----
+[2024-04-01 11:41:53] Es el turno de Elandril El Veloz
+[2024-04-01 11:41:53] Elandril: 'Si que sabes defenderte!!!'
+[2024-04-01 11:41:53] Elandril El Veloz ataca a Elowen El Bosque y causa -21 puntos de daño.
+[2024-04-01 11:41:53] La vida de Elowen El Bosque es de 23 puntos.
+[2024-04-01 11:41:53] Es el turno de Elowen El Bosque
+[2024-04-01 11:41:53] Elowen: 'Tu vida se agotará más rápido que la mía!!!'
+[2024-04-01 11:41:53] Elowen El Bosque ataca a Elandril El Veloz y causa -25 puntos de daño.
+[2024-04-01 11:41:53] La vida de Elandril El Veloz es de 0 puntos.
+[2024-04-01 11:41:53] Elandril El Veloz ha sido derrotado!
+[2024-04-01 11:41:53] Elowen ha subido de nivel a 2!
+[2024-04-01 11:41:53] 
+Las cartas de Lucho son las siguientes:
+
+[2024-04-01 11:41:53] Carta {Raza=HUMAN, Nombre='Longshard', Alias='El Valiente', Fecha Nacimiento=1981-06-29, Edad=42, Nivel=1, Vida=100, Fuerza=8, Velocidad=14, Destreza=11, Armadura=10}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] Carta {Raza=WITCHER, Nombre='Beck Riddle', Alias='La Bruja de las Sombras', Fecha Nacimiento=1915-12-22, Edad=108, Nivel=1, Vida=100, Fuerza=6, Velocidad=15, Destreza=12, Armadura=10}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] Carta {Raza=ELF, Nombre='Elowen', Alias='El Bosque', Fecha Nacimiento=1928-06-23, Edad=95, Nivel=2, Vida=23, Fuerza=10, Velocidad=11, Destreza=18, Armadura=9}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] 
+Las cartas de Aylen son las siguientes:
+
+[2024-04-01 11:41:53] Carta {Raza=ELF, Nombre='Agis', Alias='El Bosque', Fecha Nacimiento=1975-04-24, Edad=48, Nivel=1, Vida=100, Fuerza=7, Velocidad=13, Destreza=15, Armadura=7}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] Carta {Raza=ELF, Nombre='Galadria', Alias='El Brillante', Fecha Nacimiento=1839-10-16, Edad=184, Nivel=1, Vida=100, Fuerza=6, Velocidad=11, Destreza=17, Armadura=9}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] Lucho seleccionó: Longshard El Valiente
+[2024-04-01 11:41:53] Aylen seleccionó: Galadria El Brillante
+[2024-04-01 11:41:53] 
+----- Ronda 1 -----
+[2024-04-01 11:41:53] Es el turno de Galadria El Brillante
+[2024-04-01 11:41:53] Galadria: 'Tu vida se agotará más rápido que la mía!!!'
+[2024-04-01 11:41:53] Galadria El Brillante ataca a Longshard El Valiente y causa -25 puntos de daño.
+[2024-04-01 11:41:53] La vida de Longshard El Valiente es de 76 puntos.
+[2024-04-01 11:41:53] Es el turno de Longshard El Valiente
+[2024-04-01 11:41:53] Longshard: 'Eres muy hábil esquivando!!!'
+[2024-04-01 11:41:53] Longshard El Valiente ataca a Galadria El Brillante y causa -16 puntos de daño.
+[2024-04-01 11:41:53] La vida de Galadria El Brillante es de 84 puntos.
+[2024-04-01 11:41:53] 
+----- Ronda 2 -----
+[2024-04-01 11:41:53] Es el turno de Longshard El Valiente
+[2024-04-01 11:41:53] Longshard: 'Eres muy hábil esquivando!!!'
+[2024-04-01 11:41:53] Longshard El Valiente ataca a Galadria El Brillante y causa -13 puntos de daño.
+[2024-04-01 11:41:53] La vida de Galadria El Brillante es de 71 puntos.
+[2024-04-01 11:41:53] Es el turno de Galadria El Brillante
+[2024-04-01 11:41:53] Galadria: 'Si que sabes defenderte!!!'
+[2024-04-01 11:41:53] Galadria El Brillante ataca a Longshard El Valiente y causa -19 puntos de daño.
+[2024-04-01 11:41:53] La vida de Longshard El Valiente es de 58 puntos.
+[2024-04-01 11:41:53] 
+----- Ronda 3 -----
+[2024-04-01 11:41:53] Es el turno de Longshard El Valiente
+[2024-04-01 11:41:53] Longshard: 'Eres muy hábil esquivando!!!'
+[2024-04-01 11:41:53] Longshard El Valiente ataca a Galadria El Brillante y causa -13 puntos de daño.
+[2024-04-01 11:41:53] La vida de Galadria El Brillante es de 58 puntos.
+[2024-04-01 11:41:53] Es el turno de Galadria El Brillante
+[2024-04-01 11:41:53] Galadria: 'Tu vida se agotará más rápido que la mía!!!'
+[2024-04-01 11:41:53] Galadria El Brillante ataca a Longshard El Valiente y causa -24 puntos de daño.
+[2024-04-01 11:41:53] La vida de Longshard El Valiente es de 35 puntos.
+[2024-04-01 11:41:53] 
+----- Ronda 4 -----
+[2024-04-01 11:41:53] Es el turno de Longshard El Valiente
+[2024-04-01 11:41:53] Longshard: 'Eres muy hábil esquivando!!!'
+[2024-04-01 11:41:53] Longshard El Valiente ataca a Galadria El Brillante y causa -13 puntos de daño.
+[2024-04-01 11:41:53] La vida de Galadria El Brillante es de 45 puntos.
+[2024-04-01 11:41:53] Es el turno de Galadria El Brillante
+[2024-04-01 11:41:53] Galadria: 'Tu vida se agotará más rápido que la mía!!!'
+[2024-04-01 11:41:53] Galadria El Brillante ataca a Longshard El Valiente y causa -25 puntos de daño.
+[2024-04-01 11:41:53] La vida de Longshard El Valiente es de 11 puntos.
+[2024-04-01 11:41:53] 
+----- Ronda 5 -----
+[2024-04-01 11:41:53] Es el turno de Longshard El Valiente
+[2024-04-01 11:41:53] Longshard: 'Eres muy hábil esquivando!!!'
+[2024-04-01 11:41:53] Longshard El Valiente ataca a Galadria El Brillante y causa -17 puntos de daño.
+[2024-04-01 11:41:53] La vida de Galadria El Brillante es de 28 puntos.
+[2024-04-01 11:41:53] Es el turno de Galadria El Brillante
+[2024-04-01 11:41:53] Galadria: 'Si que sabes defenderte!!!'
+[2024-04-01 11:41:53] Galadria El Brillante ataca a Longshard El Valiente y causa -10 puntos de daño.
+[2024-04-01 11:41:53] La vida de Longshard El Valiente es de 1 puntos.
+[2024-04-01 11:41:53] 
+----- Ronda 6 -----
+[2024-04-01 11:41:53] Es el turno de Longshard El Valiente
+[2024-04-01 11:41:53] Longshard: 'Eres muy hábil esquivando!!!'
+[2024-04-01 11:41:53] Longshard El Valiente ataca a Galadria El Brillante y causa -8 puntos de daño.
+[2024-04-01 11:41:53] La vida de Galadria El Brillante es de 20 puntos.
+[2024-04-01 11:41:53] Es el turno de Galadria El Brillante
+[2024-04-01 11:41:53] Galadria: 'Tu vida se agotará más rápido que la mía!!!'
+[2024-04-01 11:41:53] Galadria El Brillante ataca a Longshard El Valiente y causa -22 puntos de daño.
+[2024-04-01 11:41:53] La vida de Longshard El Valiente es de 0 puntos.
+[2024-04-01 11:41:53] Longshard El Valiente ha sido derrotado!
+[2024-04-01 11:41:53] Galadria ha recuperado su vida a 100 puntos.
+[2024-04-01 11:41:53] 
+Las cartas de Lucho son las siguientes:
+
+[2024-04-01 11:41:53] Carta {Raza=WITCHER, Nombre='Beck Riddle', Alias='La Bruja de las Sombras', Fecha Nacimiento=1915-12-22, Edad=108, Nivel=1, Vida=100, Fuerza=6, Velocidad=15, Destreza=12, Armadura=10}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] Carta {Raza=ELF, Nombre='Elowen', Alias='El Bosque', Fecha Nacimiento=1928-06-23, Edad=95, Nivel=2, Vida=23, Fuerza=10, Velocidad=11, Destreza=18, Armadura=9}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] 
+Las cartas de Aylen son las siguientes:
+
+[2024-04-01 11:41:53] Carta {Raza=ELF, Nombre='Agis', Alias='El Bosque', Fecha Nacimiento=1975-04-24, Edad=48, Nivel=1, Vida=100, Fuerza=7, Velocidad=13, Destreza=15, Armadura=7}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] Carta {Raza=ELF, Nombre='Galadria', Alias='El Brillante', Fecha Nacimiento=1839-10-16, Edad=184, Nivel=1, Vida=100, Fuerza=6, Velocidad=11, Destreza=17, Armadura=9}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] Lucho seleccionó: Elowen El Bosque
+[2024-04-01 11:41:53] Aylen seleccionó: Galadria El Brillante
+[2024-04-01 11:41:53] 
+----- Ronda 1 -----
+[2024-04-01 11:41:53] Es el turno de Elowen El Bosque
+[2024-04-01 11:41:53] Elowen: 'Los vientos han desviado mi disparo...'
+[2024-04-01 11:41:53] Elowen El Bosque ataca a Galadria El Brillante y causa 0 puntos de daño.
+[2024-04-01 11:41:53] La vida de Galadria El Brillante es de 100 puntos.
+[2024-04-01 11:41:53] Es el turno de Galadria El Brillante
+[2024-04-01 11:41:53] Galadria: 'Si que sabes defenderte!!!'
+[2024-04-01 11:41:53] Galadria El Brillante ataca a Elowen El Bosque y causa -20 puntos de daño.
+[2024-04-01 11:41:53] La vida de Elowen El Bosque es de 4 puntos.
+[2024-04-01 11:41:53] 
+----- Ronda 2 -----
+[2024-04-01 11:41:53] Es el turno de Elowen El Bosque
+[2024-04-01 11:41:53] Elowen: 'Los vientos han desviado mi disparo...'
+[2024-04-01 11:41:53] Elowen El Bosque ataca a Galadria El Brillante y causa 0 puntos de daño.
+[2024-04-01 11:41:53] La vida de Galadria El Brillante es de 100 puntos.
+[2024-04-01 11:41:53] Es el turno de Galadria El Brillante
+[2024-04-01 11:41:53] Galadria: 'Si que sabes defenderte!!!'
+[2024-04-01 11:41:53] Galadria El Brillante ataca a Elowen El Bosque y causa -18 puntos de daño.
+[2024-04-01 11:41:53] La vida de Elowen El Bosque es de 0 puntos.
+[2024-04-01 11:41:53] Elowen El Bosque ha sido derrotado!
+[2024-04-01 11:41:53] Se ha recuperado del cementerio la carta Elandril El Veloz.
+[2024-04-01 11:41:53] 
+Las cartas de Lucho son las siguientes:
+
+[2024-04-01 11:41:53] Carta {Raza=WITCHER, Nombre='Beck Riddle', Alias='La Bruja de las Sombras', Fecha Nacimiento=1915-12-22, Edad=108, Nivel=1, Vida=100, Fuerza=6, Velocidad=15, Destreza=12, Armadura=10}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] 
+Las cartas de Aylen son las siguientes:
+
+[2024-04-01 11:41:53] Carta {Raza=ELF, Nombre='Agis', Alias='El Bosque', Fecha Nacimiento=1975-04-24, Edad=48, Nivel=1, Vida=100, Fuerza=7, Velocidad=13, Destreza=15, Armadura=7}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] Carta {Raza=ELF, Nombre='Elandril', Alias='El Veloz', Fecha Nacimiento=1939-07-27, Edad=84, Nivel=1, Vida=100, Fuerza=10, Velocidad=14, Destreza=18, Armadura=10}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] Carta {Raza=ELF, Nombre='Galadria', Alias='El Brillante', Fecha Nacimiento=1839-10-16, Edad=184, Nivel=1, Vida=100, Fuerza=6, Velocidad=11, Destreza=17, Armadura=9}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] Lucho seleccionó: Beck Riddle La Bruja de las Sombras
+[2024-04-01 11:41:53] Aylen seleccionó: Agis El Bosque
+[2024-04-01 11:41:53] 
+----- Ronda 1 -----
+[2024-04-01 11:41:53] Es el turno de Agis El Bosque
+[2024-04-01 11:41:53] Agis: 'Si que sabes defenderte!!!'
+[2024-04-01 11:41:53] Agis El Bosque ataca a Beck Riddle La Bruja de las Sombras y causa -21 puntos de daño.
+[2024-04-01 11:41:53] La vida de Beck Riddle La Bruja de las Sombras es de 80 puntos.
+[2024-04-01 11:41:53] Es el turno de Beck Riddle La Bruja de las Sombras
+[2024-04-01 11:41:53] Beck Riddle: 'Nunca me daré por vencido!!!'
+[2024-04-01 11:41:53] Beck Riddle La Bruja de las Sombras ataca a Agis El Bosque y causa -27 puntos de daño.
+[2024-04-01 11:41:53] La vida de Agis El Bosque es de 75 puntos.
+[2024-04-01 11:41:53] 
+----- Ronda 2 -----
+[2024-04-01 11:41:53] Es el turno de Agis El Bosque
+[2024-04-01 11:41:53] Agis: 'Si que sabes defenderte!!!'
+[2024-04-01 11:41:53] Agis El Bosque ataca a Beck Riddle La Bruja de las Sombras y causa -21 puntos de daño.
+[2024-04-01 11:41:53] La vida de Beck Riddle La Bruja de las Sombras es de 60 puntos.
+[2024-04-01 11:41:53] Es el turno de Beck Riddle La Bruja de las Sombras
+[2024-04-01 11:41:53] Beck Riddle: 'Su ki es muy alto!!!'
+[2024-04-01 11:41:53] Beck Riddle La Bruja de las Sombras ataca a Agis El Bosque y causa -18 puntos de daño.
+[2024-04-01 11:41:53] La vida de Agis El Bosque es de 58 puntos.
+[2024-04-01 11:41:53] 
+----- Ronda 3 -----
+[2024-04-01 11:41:53] Es el turno de Agis El Bosque
+[2024-04-01 11:41:53] Agis: 'Si que sabes defenderte!!!'
+[2024-04-01 11:41:53] Agis El Bosque ataca a Beck Riddle La Bruja de las Sombras y causa -21 puntos de daño.
+[2024-04-01 11:41:53] La vida de Beck Riddle La Bruja de las Sombras es de 40 puntos.
+[2024-04-01 11:41:53] Es el turno de Beck Riddle La Bruja de las Sombras
+[2024-04-01 11:41:53] Beck Riddle: 'Nunca me daré por vencido!!!'
+[2024-04-01 11:41:53] Beck Riddle La Bruja de las Sombras ataca a Agis El Bosque y causa -26 puntos de daño.
+[2024-04-01 11:41:53] La vida de Agis El Bosque es de 34 puntos.
+[2024-04-01 11:41:53] 
+----- Ronda 4 -----
+[2024-04-01 11:41:53] Es el turno de Agis El Bosque
+[2024-04-01 11:41:53] Agis: 'Si que sabes defenderte!!!'
+[2024-04-01 11:41:53] Agis El Bosque ataca a Beck Riddle La Bruja de las Sombras y causa -14 puntos de daño.
+[2024-04-01 11:41:53] La vida de Beck Riddle La Bruja de las Sombras es de 27 puntos.
+[2024-04-01 11:41:53] Es el turno de Beck Riddle La Bruja de las Sombras
+[2024-04-01 11:41:53] Beck Riddle: 'Nunca me daré por vencido!!!'
+[2024-04-01 11:41:53] Beck Riddle La Bruja de las Sombras ataca a Agis El Bosque y causa -27 puntos de daño.
+[2024-04-01 11:41:53] La vida de Agis El Bosque es de 9 puntos.
+[2024-04-01 11:41:53] 
+----- Ronda 5 -----
+[2024-04-01 11:41:53] Es el turno de Agis El Bosque
+[2024-04-01 11:41:53] Agis: 'Si que sabes defenderte!!!'
+[2024-04-01 11:41:53] Agis El Bosque ataca a Beck Riddle La Bruja de las Sombras y causa -10 puntos de daño.
+[2024-04-01 11:41:53] La vida de Beck Riddle La Bruja de las Sombras es de 17 puntos.
+[2024-04-01 11:41:53] Es el turno de Beck Riddle La Bruja de las Sombras
+[2024-04-01 11:41:53] Beck Riddle: 'Su ki es muy alto!!!'
+[2024-04-01 11:41:53] Beck Riddle La Bruja de las Sombras ataca a Agis El Bosque y causa -18 puntos de daño.
+[2024-04-01 11:41:53] La vida de Agis El Bosque es de 0 puntos.
+[2024-04-01 11:41:53] Agis El Bosque ha sido derrotado!
+[2024-04-01 11:41:53] Se ha recuperado del cementerio la carta Longshard El Valiente.
+[2024-04-01 11:41:53] 
+Las cartas de Lucho son las siguientes:
+
+[2024-04-01 11:41:53] Carta {Raza=HUMAN, Nombre='Longshard', Alias='El Valiente', Fecha Nacimiento=1981-06-29, Edad=42, Nivel=1, Vida=100, Fuerza=8, Velocidad=14, Destreza=11, Armadura=10}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] Carta {Raza=WITCHER, Nombre='Beck Riddle', Alias='La Bruja de las Sombras', Fecha Nacimiento=1915-12-22, Edad=108, Nivel=1, Vida=17, Fuerza=6, Velocidad=15, Destreza=12, Armadura=10}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] 
+Las cartas de Aylen son las siguientes:
+
+[2024-04-01 11:41:53] Carta {Raza=ELF, Nombre='Elandril', Alias='El Veloz', Fecha Nacimiento=1939-07-27, Edad=84, Nivel=1, Vida=100, Fuerza=10, Velocidad=14, Destreza=18, Armadura=10}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] Carta {Raza=ELF, Nombre='Galadria', Alias='El Brillante', Fecha Nacimiento=1839-10-16, Edad=184, Nivel=1, Vida=100, Fuerza=6, Velocidad=11, Destreza=17, Armadura=9}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] Lucho seleccionó: Beck Riddle La Bruja de las Sombras
+[2024-04-01 11:41:53] Aylen seleccionó: Elandril El Veloz
+[2024-04-01 11:41:53] 
+----- Ronda 1 -----
+[2024-04-01 11:41:53] Es el turno de Beck Riddle La Bruja de las Sombras
+[2024-04-01 11:41:53] Beck Riddle: 'Nunca me daré por vencido!!!'
+[2024-04-01 11:41:53] Beck Riddle La Bruja de las Sombras ataca a Elandril El Veloz y causa -25 puntos de daño.
+[2024-04-01 11:41:53] La vida de Elandril El Veloz es de 77 puntos.
+[2024-04-01 11:41:53] Es el turno de Elandril El Veloz
+[2024-04-01 11:41:53] Elandril: 'Tu vida se agotará más rápido que la mía!!!'
+[2024-04-01 11:41:53] Elandril El Veloz ataca a Beck Riddle La Bruja de las Sombras y causa -29 puntos de daño.
+[2024-04-01 11:41:53] La vida de Beck Riddle La Bruja de las Sombras es de 0 puntos.
+[2024-04-01 11:41:53] Beck Riddle La Bruja de las Sombras ha sido derrotado!
+[2024-04-01 11:41:53] Elandril ha recuperado su vida a 100 puntos.
+[2024-04-01 11:41:53] 
+Las cartas de Lucho son las siguientes:
+
+[2024-04-01 11:41:53] Carta {Raza=HUMAN, Nombre='Longshard', Alias='El Valiente', Fecha Nacimiento=1981-06-29, Edad=42, Nivel=1, Vida=100, Fuerza=8, Velocidad=14, Destreza=11, Armadura=10}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] 
+Las cartas de Aylen son las siguientes:
+
+[2024-04-01 11:41:53] Carta {Raza=ELF, Nombre='Galadria', Alias='El Brillante', Fecha Nacimiento=1839-10-16, Edad=184, Nivel=1, Vida=100, Fuerza=6, Velocidad=11, Destreza=17, Armadura=9}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] Carta {Raza=ELF, Nombre='Elandril', Alias='El Veloz', Fecha Nacimiento=1939-07-27, Edad=84, Nivel=1, Vida=100, Fuerza=10, Velocidad=14, Destreza=18, Armadura=10}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] Lucho seleccionó: Longshard El Valiente
+[2024-04-01 11:41:53] Aylen seleccionó: Galadria El Brillante
+[2024-04-01 11:41:53] 
+----- Ronda 1 -----
+[2024-04-01 11:41:53] Es el turno de Galadria El Brillante
+[2024-04-01 11:41:53] Galadria: 'Si que sabes defenderte!!!'
+[2024-04-01 11:41:53] Galadria El Brillante ataca a Longshard El Valiente y causa -21 puntos de daño.
+[2024-04-01 11:41:53] La vida de Longshard El Valiente es de 80 puntos.
+[2024-04-01 11:41:53] Es el turno de Longshard El Valiente
+[2024-04-01 11:41:53] Longshard: 'Eres muy hábil esquivando!!!'
+[2024-04-01 11:41:53] Longshard El Valiente ataca a Galadria El Brillante y causa -11 puntos de daño.
+[2024-04-01 11:41:53] La vida de Galadria El Brillante es de 89 puntos.
+[2024-04-01 11:41:53] 
+----- Ronda 2 -----
+[2024-04-01 11:41:53] Es el turno de Longshard El Valiente
+[2024-04-01 11:41:53] Longshard: 'Terminemos con esto de una vez!!!'
+[2024-04-01 11:41:53] Longshard El Valiente ataca a Galadria El Brillante y causa -22 puntos de daño.
+[2024-04-01 11:41:53] La vida de Galadria El Brillante es de 68 puntos.
+[2024-04-01 11:41:53] Es el turno de Galadria El Brillante
+[2024-04-01 11:41:53] Galadria: 'Si que sabes defenderte!!!'
+[2024-04-01 11:41:53] Galadria El Brillante ataca a Longshard El Valiente y causa -12 puntos de daño.
+[2024-04-01 11:41:53] La vida de Longshard El Valiente es de 68 puntos.
+[2024-04-01 11:41:53] 
+----- Ronda 3 -----
+[2024-04-01 11:41:53] Es el turno de Galadria El Brillante
+[2024-04-01 11:41:53] Galadria: 'Si que sabes defenderte!!!'
+[2024-04-01 11:41:53] Galadria El Brillante ataca a Longshard El Valiente y causa -20 puntos de daño.
+[2024-04-01 11:41:53] La vida de Longshard El Valiente es de 49 puntos.
+[2024-04-01 11:41:53] Es el turno de Longshard El Valiente
+[2024-04-01 11:41:53] Longshard: 'Eres muy hábil esquivando!!!'
+[2024-04-01 11:41:53] Longshard El Valiente ataca a Galadria El Brillante y causa -10 puntos de daño.
+[2024-04-01 11:41:53] La vida de Galadria El Brillante es de 58 puntos.
+[2024-04-01 11:41:53] 
+----- Ronda 4 -----
+[2024-04-01 11:41:53] Es el turno de Longshard El Valiente
+[2024-04-01 11:41:53] Longshard: 'Eres muy hábil esquivando!!!'
+[2024-04-01 11:41:53] Longshard El Valiente ataca a Galadria El Brillante y causa -5 puntos de daño.
+[2024-04-01 11:41:53] La vida de Galadria El Brillante es de 53 puntos.
+[2024-04-01 11:41:53] Es el turno de Galadria El Brillante
+[2024-04-01 11:41:53] Galadria: 'Si que sabes defenderte!!!'
+[2024-04-01 11:41:53] Galadria El Brillante ataca a Longshard El Valiente y causa -21 puntos de daño.
+[2024-04-01 11:41:53] La vida de Longshard El Valiente es de 29 puntos.
+[2024-04-01 11:41:53] 
+----- Ronda 5 -----
+[2024-04-01 11:41:53] Es el turno de Longshard El Valiente
+[2024-04-01 11:41:53] Longshard: 'Eres muy hábil esquivando!!!'
+[2024-04-01 11:41:53] Longshard El Valiente ataca a Galadria El Brillante y causa -10 puntos de daño.
+[2024-04-01 11:41:53] La vida de Galadria El Brillante es de 43 puntos.
+[2024-04-01 11:41:53] Es el turno de Galadria El Brillante
+[2024-04-01 11:41:53] Galadria: 'Si que sabes defenderte!!!'
+[2024-04-01 11:41:53] Galadria El Brillante ataca a Longshard El Valiente y causa -17 puntos de daño.
+[2024-04-01 11:41:53] La vida de Longshard El Valiente es de 13 puntos.
+[2024-04-01 11:41:53] 
+----- Ronda 6 -----
+[2024-04-01 11:41:53] Es el turno de Longshard El Valiente
+[2024-04-01 11:41:53] Longshard: 'Eres muy hábil esquivando!!!'
+[2024-04-01 11:41:53] Longshard El Valiente ataca a Galadria El Brillante y causa -14 puntos de daño.
+[2024-04-01 11:41:53] La vida de Galadria El Brillante es de 29 puntos.
+[2024-04-01 11:41:53] Es el turno de Galadria El Brillante
+[2024-04-01 11:41:53] Galadria: 'Tu vida se agotará más rápido que la mía!!!'
+[2024-04-01 11:41:53] Galadria El Brillante ataca a Longshard El Valiente y causa -24 puntos de daño.
+[2024-04-01 11:41:53] La vida de Longshard El Valiente es de 0 puntos.
+[2024-04-01 11:41:53] Longshard El Valiente ha sido derrotado!
+[2024-04-01 11:41:53] Galadria ha subido de nivel a 2!
+[2024-04-01 11:41:53] 
+Las cartas de Lucho son las siguientes:
+
+[2024-04-01 11:41:53] Sin cartas en la mano de Lucho
+[2024-04-01 11:41:53] 
+Las cartas de Aylen son las siguientes:
+
+[2024-04-01 11:41:53] Carta {Raza=ELF, Nombre='Elandril', Alias='El Veloz', Fecha Nacimiento=1939-07-27, Edad=84, Nivel=1, Vida=100, Fuerza=10, Velocidad=14, Destreza=18, Armadura=10}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] Carta {Raza=ELF, Nombre='Galadria', Alias='El Brillante', Fecha Nacimiento=1839-10-16, Edad=184, Nivel=2, Vida=29, Fuerza=6, Velocidad=11, Destreza=17, Armadura=9}
+[2024-04-01 11:41:53] ----------
+
+[2024-04-01 11:41:53] Fin del Juego
+[2024-04-01 11:41:53] Puntaje de Lucho: 2
+[2024-04-01 11:41:53] Puntaje de Aylen: 4
+[2024-04-01 11:41:53] Aylen ha conquistado el trono de hierro!
+[2024-04-01 14:17:51] Se ha agregado 1 carta a la mano de lucho
+[2024-04-01 14:17:51] Se ha agregado 1 carta a la mano de lucho
+[2024-04-01 14:17:52] Se ha agregado 1 carta a la mano de lucho
+[2024-04-01 14:17:52] Se ha agregado 1 carta a la mano de aylen
+[2024-04-01 14:17:52] Se ha agregado 1 carta a la mano de aylen
+[2024-04-01 14:17:52] Se ha agregado 1 carta a la mano de aylen
+[2024-04-01 14:17:52] 
+Las cartas de lucho son las siguientes:
+
+[2024-04-01 14:17:52] Carta {Raza=WITCHER, Nombre='Malachius Thorne', Alias='El Hechicero del Viento', Fecha Nacimiento=1881-03-12, Edad=143, Nivel=1, Vida=100, Fuerza=5, Velocidad=17, Destreza=15, Armadura=10}
+[2024-04-01 14:17:52] ----------
+
+[2024-04-01 14:17:52] Carta {Raza=HUMAN, Nombre='Cedric', Alias='El Valiente', Fecha Nacimiento=1939-01-01, Edad=85, Nivel=1, Vida=100, Fuerza=8, Velocidad=12, Destreza=13, Armadura=11}
+[2024-04-01 14:17:52] ----------
+
+[2024-04-01 14:17:52] Carta {Raza=WITCHER, Nombre='Eoin Razor', Alias='El Invocador de Tormentas', Fecha Nacimiento=1783-09-29, Edad=240, Nivel=1, Vida=100, Fuerza=5, Velocidad=20, Destreza=15, Armadura=8}
+[2024-04-01 14:17:52] ----------
+
+[2024-04-01 14:17:52] 
+Las cartas de aylen son las siguientes:
+
+[2024-04-01 14:17:52] Carta {Raza=OGRE, Nombre='Blorg', Alias='El Colosal', Fecha Nacimiento=2016-12-16, Edad=7, Nivel=1, Vida=100, Fuerza=20, Velocidad=10, Destreza=7, Armadura=13}
+[2024-04-01 14:17:52] ----------
+
+[2024-04-01 14:17:52] Carta {Raza=OGRE, Nombre='Grommash', Alias='El Brutal', Fecha Nacimiento=1901-12-07, Edad=122, Nivel=1, Vida=100, Fuerza=18, Velocidad=7, Destreza=5, Armadura=15}
+[2024-04-01 14:17:52] ----------
+
+[2024-04-01 14:17:52] Carta {Raza=HUMAN, Nombre='Cedric', Alias='El Loco', Fecha Nacimiento=2004-11-19, Edad=19, Nivel=1, Vida=100, Fuerza=7, Velocidad=12, Destreza=12, Armadura=15}
+[2024-04-01 14:17:52] ----------
+
+[2024-04-01 14:17:52] lucho seleccionó: Eoin Razor El Invocador de Tormentas
+[2024-04-01 14:17:52] aylen seleccionó: Grommash El Brutal
+[2024-04-01 14:17:52] 
+----- Ronda 1 -----
+[2024-04-01 14:17:52] Es el turno de Eoin Razor El Invocador de Tormentas
+[2024-04-01 14:17:52] Eoin Razor: 'Su ki es muy alto!!!'
+[2024-04-01 14:17:52] Eoin Razor El Invocador de Tormentas ataca a Grommash El Brutal y causa -9 puntos de daño.
+[2024-04-01 14:17:52] La vida de Grommash El Brutal es de 91 puntos.
+[2024-04-01 14:17:52] Es el turno de Grommash El Brutal
+[2024-04-01 14:17:52] Golpe letal!!!
+[2024-04-01 14:17:52] Grommash El Brutal ataca a Eoin Razor El Invocador de Tormentas y causa -61 puntos de daño.
+[2024-04-01 14:17:52] La vida de Eoin Razor El Invocador de Tormentas es de 44 puntos.
+[2024-04-01 14:17:52] 
+----- Ronda 2 -----
+[2024-04-01 14:17:52] Es el turno de Eoin Razor El Invocador de Tormentas
+[2024-04-01 14:17:52] Eoin Razor: 'Su ki es muy alto!!!'
+[2024-04-01 14:17:52] Eoin Razor El Invocador de Tormentas ataca a Grommash El Brutal y causa -12 puntos de daño.
+[2024-04-01 14:17:52] La vida de Grommash El Brutal es de 80 puntos.
+[2024-04-01 14:17:52] Es el turno de Grommash El Brutal
+[2024-04-01 14:17:52] Golpe letal!!!
+[2024-04-01 14:17:52] Grommash El Brutal ataca a Eoin Razor El Invocador de Tormentas y causa -60 puntos de daño.
+[2024-04-01 14:17:52] La vida de Eoin Razor El Invocador de Tormentas es de 0 puntos.
+[2024-04-01 14:17:52] Eoin Razor El Invocador de Tormentas ha sido derrotado!
+[2024-04-01 14:17:52] Grommash ha recuperado su vida a 100 puntos.
+[2024-04-01 14:17:52] 
+Las cartas de lucho son las siguientes:
+
+[2024-04-01 14:17:52] Carta {Raza=WITCHER, Nombre='Malachius Thorne', Alias='El Hechicero del Viento', Fecha Nacimiento=1881-03-12, Edad=143, Nivel=1, Vida=100, Fuerza=5, Velocidad=17, Destreza=15, Armadura=10}
+[2024-04-01 14:17:52] ----------
+
+[2024-04-01 14:17:52] Carta {Raza=HUMAN, Nombre='Cedric', Alias='El Valiente', Fecha Nacimiento=1939-01-01, Edad=85, Nivel=1, Vida=100, Fuerza=8, Velocidad=12, Destreza=13, Armadura=11}
+[2024-04-01 14:17:52] ----------
+
+[2024-04-01 14:17:52] 
+Las cartas de aylen son las siguientes:
+
+[2024-04-01 14:17:52] Carta {Raza=OGRE, Nombre='Blorg', Alias='El Colosal', Fecha Nacimiento=2016-12-16, Edad=7, Nivel=1, Vida=100, Fuerza=20, Velocidad=10, Destreza=7, Armadura=13}
+[2024-04-01 14:17:52] ----------
+
+[2024-04-01 14:17:52] Carta {Raza=HUMAN, Nombre='Cedric', Alias='El Loco', Fecha Nacimiento=2004-11-19, Edad=19, Nivel=1, Vida=100, Fuerza=7, Velocidad=12, Destreza=12, Armadura=15}
+[2024-04-01 14:17:52] ----------
+
+[2024-04-01 14:17:52] Carta {Raza=OGRE, Nombre='Grommash', Alias='El Brutal', Fecha Nacimiento=1901-12-07, Edad=122, Nivel=1, Vida=100, Fuerza=18, Velocidad=7, Destreza=5, Armadura=15}
+[2024-04-01 14:17:52] ----------
+
+[2024-04-01 14:17:52] lucho seleccionó: Malachius Thorne El Hechicero del Viento
+[2024-04-01 14:17:52] aylen seleccionó: Blorg El Colosal
+[2024-04-01 14:17:52] 
+----- Ronda 1 -----
+[2024-04-01 14:17:52] Es el turno de Blorg El Colosal
+[2024-04-01 14:17:52] Blorg: 'Se aproxima tu muerte y mi comida... Golpe Crítico!!!'
+[2024-04-01 14:17:52] Blorg El Colosal ataca a Malachius Thorne El Hechicero del Viento y causa -47 puntos de daño.
+[2024-04-01 14:17:52] La vida de Malachius Thorne El Hechicero del Viento es de 57 puntos.
+[2024-04-01 14:17:52] Es el turno de Malachius Thorne El Hechicero del Viento
+[2024-04-01 14:17:52] Malachius Thorne: 'Su ki es muy alto!!!'
+[2024-04-01 14:17:52] Malachius Thorne El Hechicero del Viento ataca a Blorg El Colosal y causa -7 puntos de daño.
+[2024-04-01 14:17:52] La vida de Blorg El Colosal es de 93 puntos.
+[2024-04-01 14:17:52] 
+----- Ronda 2 -----
+[2024-04-01 14:17:52] Es el turno de Malachius Thorne El Hechicero del Viento
+[2024-04-01 14:17:52] Malachius Thorne: 'Su ki es muy alto!!!'
+[2024-04-01 14:17:52] Malachius Thorne El Hechicero del Viento ataca a Blorg El Colosal y causa -15 puntos de daño.
+[2024-04-01 14:17:52] La vida de Blorg El Colosal es de 79 puntos.
+[2024-04-01 14:17:52] Es el turno de Blorg El Colosal
+[2024-04-01 14:17:52] Blorg: 'Se aproxima tu muerte y mi comida... Golpe Crítico!!!'
+[2024-04-01 14:17:52] Blorg El Colosal ataca a Malachius Thorne El Hechicero del Viento y causa -45 puntos de daño.
+[2024-04-01 14:17:52] La vida de Malachius Thorne El Hechicero del Viento es de 16 puntos.
+[2024-04-01 14:17:52] 
+----- Ronda 3 -----
+[2024-04-01 14:17:52] Es el turno de Malachius Thorne El Hechicero del Viento
+[2024-04-01 14:17:52] Malachius Thorne: 'Su ki es muy alto!!!'
+[2024-04-01 14:17:52] Malachius Thorne El Hechicero del Viento ataca a Blorg El Colosal y causa -20 puntos de daño.
+[2024-04-01 14:17:52] La vida de Blorg El Colosal es de 60 puntos.
+[2024-04-01 14:17:52] Es el turno de Blorg El Colosal
+[2024-04-01 14:17:52] Blorg: 'Se aproxima tu muerte y mi comida... Golpe Crítico!!!'
+[2024-04-01 14:17:52] Blorg El Colosal ataca a Malachius Thorne El Hechicero del Viento y causa -46 puntos de daño.
+[2024-04-01 14:17:52] La vida de Malachius Thorne El Hechicero del Viento es de 0 puntos.
+[2024-04-01 14:17:52] Malachius Thorne El Hechicero del Viento ha sido derrotado!
+[2024-04-01 14:17:52] Blorg ha recuperado su vida a 100 puntos.
+[2024-04-01 14:17:52] 
+Las cartas de lucho son las siguientes:
+
+[2024-04-01 14:17:52] Carta {Raza=HUMAN, Nombre='Cedric', Alias='El Valiente', Fecha Nacimiento=1939-01-01, Edad=85, Nivel=1, Vida=100, Fuerza=8, Velocidad=12, Destreza=13, Armadura=11}
+[2024-04-01 14:17:52] ----------
+
+[2024-04-01 14:17:52] 
+Las cartas de aylen son las siguientes:
+
+[2024-04-01 14:17:52] Carta {Raza=HUMAN, Nombre='Cedric', Alias='El Loco', Fecha Nacimiento=2004-11-19, Edad=19, Nivel=1, Vida=100, Fuerza=7, Velocidad=12, Destreza=12, Armadura=15}
+[2024-04-01 14:17:52] ----------
+
+[2024-04-01 14:17:52] Carta {Raza=OGRE, Nombre='Grommash', Alias='El Brutal', Fecha Nacimiento=1901-12-07, Edad=122, Nivel=1, Vida=100, Fuerza=18, Velocidad=7, Destreza=5, Armadura=15}
+[2024-04-01 14:17:52] ----------
+
+[2024-04-01 14:17:52] Carta {Raza=OGRE, Nombre='Blorg', Alias='El Colosal', Fecha Nacimiento=2016-12-16, Edad=7, Nivel=1, Vida=100, Fuerza=20, Velocidad=10, Destreza=7, Armadura=13}
+[2024-04-01 14:17:52] ----------
+
+[2024-04-01 14:17:52] lucho seleccionó: Cedric El Valiente
+[2024-04-01 14:17:52] aylen seleccionó: Blorg El Colosal
+[2024-04-01 14:17:52] 
+----- Ronda 1 -----
+[2024-04-01 14:17:52] Es el turno de Blorg El Colosal
+[2024-04-01 14:17:52] Blorg: 'Pronto te saborearé!!!'
+[2024-04-01 14:17:52] Blorg El Colosal ataca a Cedric El Valiente y causa -28 puntos de daño.
+[2024-04-01 14:17:52] La vida de Cedric El Valiente es de 74 puntos.
+[2024-04-01 14:17:52] Es el turno de Cedric El Valiente
+[2024-04-01 14:17:52] Cedric: 'Eres muy hábil esquivando!!!'
+[2024-04-01 14:17:52] Cedric El Valiente ataca a Blorg El Colosal y causa -3 puntos de daño.
+[2024-04-01 14:17:52] La vida de Blorg El Colosal es de 97 puntos.
+[2024-04-01 14:17:52] 
+----- Ronda 2 -----
+[2024-04-01 14:17:52] Es el turno de Cedric El Valiente
+[2024-04-01 14:17:52] Cedric: 'Eres muy hábil esquivando!!!'
+[2024-04-01 14:17:52] Cedric El Valiente ataca a Blorg El Colosal y causa -12 puntos de daño.
+[2024-04-01 14:17:52] La vida de Blorg El Colosal es de 85 puntos.
+[2024-04-01 14:17:52] Es el turno de Blorg El Colosal
+[2024-04-01 14:17:52] Blorg: 'Pronto te saborearé!!!'
+[2024-04-01 14:17:52] Blorg El Colosal ataca a Cedric El Valiente y causa -33 puntos de daño.
+[2024-04-01 14:17:52] La vida de Cedric El Valiente es de 44 puntos.
+[2024-04-01 14:17:52] 
+----- Ronda 3 -----
+[2024-04-01 14:17:52] Es el turno de Cedric El Valiente
+[2024-04-01 14:17:52] Cedric: 'Eres muy hábil esquivando!!!'
+[2024-04-01 14:17:52] Cedric El Valiente ataca a Blorg El Colosal y causa -19 puntos de daño.
+[2024-04-01 14:17:52] La vida de Blorg El Colosal es de 66 puntos.
+[2024-04-01 14:17:52] Es el turno de Blorg El Colosal
+[2024-04-01 14:17:52] Blorg: 'Pronto te saborearé!!!'
+[2024-04-01 14:17:52] Blorg El Colosal ataca a Cedric El Valiente y causa -25 puntos de daño.
+[2024-04-01 14:17:52] La vida de Cedric El Valiente es de 21 puntos.
+[2024-04-01 14:17:52] 
+----- Ronda 4 -----
+[2024-04-01 14:17:52] Es el turno de Cedric El Valiente
+[2024-04-01 14:17:52] Cedric: 'Eres muy hábil esquivando!!!'
+[2024-04-01 14:17:52] Cedric El Valiente ataca a Blorg El Colosal y causa -15 puntos de daño.
+[2024-04-01 14:17:52] La vida de Blorg El Colosal es de 51 puntos.
+[2024-04-01 14:17:52] Es el turno de Blorg El Colosal
+[2024-04-01 14:17:52] Blorg: 'Pronto te saborearé!!!'
+[2024-04-01 14:17:52] Blorg El Colosal ataca a Cedric El Valiente y causa -27 puntos de daño.
+[2024-04-01 14:17:52] La vida de Cedric El Valiente es de 0 puntos.
+[2024-04-01 14:17:52] Cedric El Valiente ha sido derrotado!
+[2024-04-01 14:17:52] Blorg ha subido de nivel a 2!
+[2024-04-01 14:17:52] 
+Las cartas de lucho son las siguientes:
+
+[2024-04-01 14:17:52] Sin cartas en la mano de lucho
+[2024-04-01 14:17:52] 
+Las cartas de aylen son las siguientes:
+
+[2024-04-01 14:17:52] Carta {Raza=HUMAN, Nombre='Cedric', Alias='El Loco', Fecha Nacimiento=2004-11-19, Edad=19, Nivel=1, Vida=100, Fuerza=7, Velocidad=12, Destreza=12, Armadura=15}
+[2024-04-01 14:17:52] ----------
+
+[2024-04-01 14:17:52] Carta {Raza=OGRE, Nombre='Grommash', Alias='El Brutal', Fecha Nacimiento=1901-12-07, Edad=122, Nivel=1, Vida=100, Fuerza=18, Velocidad=7, Destreza=5, Armadura=15}
+[2024-04-01 14:17:52] ----------
+
+[2024-04-01 14:17:52] Carta {Raza=OGRE, Nombre='Blorg', Alias='El Colosal', Fecha Nacimiento=2016-12-16, Edad=7, Nivel=2, Vida=51, Fuerza=20, Velocidad=10, Destreza=7, Armadura=13}
+[2024-04-01 14:17:52] ----------
+
+[2024-04-01 14:17:52] Fin del Juego
+[2024-04-01 14:17:52] aylen ha conquistado el trono de hierro!
+[2024-04-01 14:18:33] Se ha agregado 1 carta a la mano de Lucho
+[2024-04-01 14:18:33] Se ha agregado 1 carta a la mano de Lucho
+[2024-04-01 14:18:33] Se ha agregado 1 carta a la mano de Lucho
+[2024-04-01 14:18:33] Se ha agregado 1 carta a la mano de Aylen
+[2024-04-01 14:18:33] 
+Las cartas de Lucho son las siguientes:
+
+[2024-04-01 14:18:33] Carta {Raza=DWARF, Nombre='Thimuk', Alias='El Forjador', Fecha Nacimiento=1904-08-26, Edad=119, Nivel=1, Vida=100, Fuerza=14, Velocidad=9, Destreza=9, Armadura=19}
+[2024-04-01 14:18:33] ----------
+
+[2024-04-01 14:18:33] Carta {Raza=OGRE, Nombre='Grul'kash', Alias='El Hambriento', Fecha Nacimiento=1904-06-15, Edad=119, Nivel=1, Vida=100, Fuerza=18, Velocidad=8, Destreza=9, Armadura=10}
+[2024-04-01 14:18:33] ----------
+
+[2024-04-01 14:18:33] Carta {Raza=OGRE, Nombre='Thokk', Alias='El Colosal', Fecha Nacimiento=1923-08-07, Edad=100, Nivel=1, Vida=100, Fuerza=20, Velocidad=6, Destreza=10, Armadura=12}
+[2024-04-01 14:18:33] ----------
+
+[2024-04-01 14:18:33] 
+Las cartas de Aylen son las siguientes:
+
+[2024-04-01 14:18:33] Carta {Raza=HUMAN, Nombre='Cedric', Alias='El Loco', Fecha Nacimiento=2004-11-19, Edad=19, Nivel=1, Vida=100, Fuerza=7, Velocidad=12, Destreza=12, Armadura=15}
+[2024-04-01 14:18:33] ----------
+
+[2024-04-01 14:18:33] Carta {Raza=OGRE, Nombre='Blorg', Alias='El Colosal', Fecha Nacimiento=2016-12-16, Edad=7, Nivel=2, Vida=51, Fuerza=20, Velocidad=10, Destreza=7, Armadura=13}
+[2024-04-01 14:18:33] ----------
+
+[2024-04-01 14:18:33] Carta {Raza=OGRE, Nombre='Grul'kash', Alias='El Destructor', Fecha Nacimiento=1938-03-26, Edad=86, Nivel=1, Vida=100, Fuerza=20, Velocidad=8, Destreza=10, Armadura=10}
+[2024-04-01 14:18:33] ----------
+
+[2024-04-01 14:18:33] Lucho seleccionó: Thimuk El Forjador
+[2024-04-01 14:18:33] Aylen seleccionó: Blorg El Colosal
+[2024-04-01 14:18:33] 
+----- Ronda 1 -----
+[2024-04-01 14:18:33] Es el turno de Blorg El Colosal
+[2024-04-01 14:18:33] Blorg: 'Pronto te saborearé!!!'
+[2024-04-01 14:18:33] Blorg El Colosal ataca a Thimuk El Forjador y causa -24 puntos de daño.
+[2024-04-01 14:18:33] La vida de Thimuk El Forjador es de 78 puntos.
+[2024-04-01 14:18:33] Es el turno de Thimuk El Forjador
+[2024-04-01 14:18:33] Thimuk: 'Jaaa!! Ese golpe lo has sentido!!!'
+[2024-04-01 14:18:33] Thimuk El Forjador ataca a Blorg El Colosal y causa -29 puntos de daño.
+[2024-04-01 14:18:33] La vida de Blorg El Colosal es de 24 puntos.
+[2024-04-01 14:18:33] 
+----- Ronda 2 -----
+[2024-04-01 14:18:33] Es el turno de Blorg El Colosal
+[2024-04-01 14:18:33] Blorg: 'UHH!!!'
+[2024-04-01 14:18:33] Blorg El Colosal ataca a Thimuk El Forjador y causa 0 puntos de daño.
+[2024-04-01 14:18:33] La vida de Thimuk El Forjador es de 78 puntos.
+[2024-04-01 14:18:33] Es el turno de Thimuk El Forjador
+[2024-04-01 14:18:33] Thimuk: 'Su hacha se enciende y acesta un Golpe Crítico!!!'
+[2024-04-01 14:18:33] Thimuk El Forjador ataca a Blorg El Colosal y causa -35 puntos de daño.
+[2024-04-01 14:18:33] La vida de Blorg El Colosal es de 0 puntos.
+[2024-04-01 14:18:33] Blorg El Colosal ha sido derrotado!
+[2024-04-01 14:18:33] Thimuk ha recuperado su vida a 100 puntos.
+[2024-04-01 14:18:33] 
+Las cartas de Lucho son las siguientes:
+
+[2024-04-01 14:18:33] Carta {Raza=OGRE, Nombre='Grul'kash', Alias='El Hambriento', Fecha Nacimiento=1904-06-15, Edad=119, Nivel=1, Vida=100, Fuerza=18, Velocidad=8, Destreza=9, Armadura=10}
+[2024-04-01 14:18:33] ----------
+
+[2024-04-01 14:18:33] Carta {Raza=OGRE, Nombre='Thokk', Alias='El Colosal', Fecha Nacimiento=1923-08-07, Edad=100, Nivel=1, Vida=100, Fuerza=20, Velocidad=6, Destreza=10, Armadura=12}
+[2024-04-01 14:18:33] ----------
+
+[2024-04-01 14:18:33] Carta {Raza=DWARF, Nombre='Thimuk', Alias='El Forjador', Fecha Nacimiento=1904-08-26, Edad=119, Nivel=1, Vida=100, Fuerza=14, Velocidad=9, Destreza=9, Armadura=19}
+[2024-04-01 14:18:33] ----------
+
+[2024-04-01 14:18:33] 
+Las cartas de Aylen son las siguientes:
+
+[2024-04-01 14:18:33] Carta {Raza=HUMAN, Nombre='Cedric', Alias='El Loco', Fecha Nacimiento=2004-11-19, Edad=19, Nivel=1, Vida=100, Fuerza=7, Velocidad=12, Destreza=12, Armadura=15}
+[2024-04-01 14:18:33] ----------
+
+[2024-04-01 14:18:33] Carta {Raza=OGRE, Nombre='Grul'kash', Alias='El Destructor', Fecha Nacimiento=1938-03-26, Edad=86, Nivel=1, Vida=100, Fuerza=20, Velocidad=8, Destreza=10, Armadura=10}
+[2024-04-01 14:18:33] ----------
+
+[2024-04-01 14:18:33] Lucho seleccionó: Thokk El Colosal
+[2024-04-01 14:18:33] Aylen seleccionó: Grul'kash El Destructor
+[2024-04-01 14:18:33] 
+----- Ronda 1 -----
+[2024-04-01 14:18:33] Es el turno de Grul'kash El Destructor
+[2024-04-01 14:18:33] Grul'kash: 'UHH!!!'
+[2024-04-01 14:18:33] Grul'kash El Destructor ataca a Thokk El Colosal y causa 0 puntos de daño.
+[2024-04-01 14:18:33] La vida de Thokk El Colosal es de 100 puntos.
+[2024-04-01 14:18:33] Es el turno de Thokk El Colosal
+[2024-04-01 14:18:33] Thokk: 'AGGAGGHH!!!'
+[2024-04-01 14:18:33] Thokk El Colosal ataca a Grul'kash El Destructor y causa -6 puntos de daño.
+[2024-04-01 14:18:33] La vida de Grul'kash El Destructor es de 94 puntos.
+[2024-04-01 14:18:33] 
+----- Ronda 2 -----
+[2024-04-01 14:18:33] Es el turno de Grul'kash El Destructor
+[2024-04-01 14:18:33] Grul'kash: 'UHH!!!'
+[2024-04-01 14:18:33] Grul'kash El Destructor ataca a Thokk El Colosal y causa 0 puntos de daño.
+[2024-04-01 14:18:33] La vida de Thokk El Colosal es de 100 puntos.
+[2024-04-01 14:18:33] Es el turno de Thokk El Colosal
+[2024-04-01 14:18:33] Thokk: 'UHH!!!'
+[2024-04-01 14:18:33] Thokk El Colosal ataca a Grul'kash El Destructor y causa 0 puntos de daño.
+[2024-04-01 14:18:33] La vida de Grul'kash El Destructor es de 94 puntos.
+[2024-04-01 14:18:33] 
+----- Ronda 3 -----
+[2024-04-01 14:18:33] Es el turno de Grul'kash El Destructor
+[2024-04-01 14:18:33] Grul'kash: 'UHH!!!'
+[2024-04-01 14:18:33] Grul'kash El Destructor ataca a Thokk El Colosal y causa 0 puntos de daño.
+[2024-04-01 14:18:33] La vida de Thokk El Colosal es de 100 puntos.
+[2024-04-01 14:18:33] Es el turno de Thokk El Colosal
+[2024-04-01 14:18:33] Thokk: 'AGGAGGHH!!!'
+[2024-04-01 14:18:33] Thokk El Colosal ataca a Grul'kash El Destructor y causa -5 puntos de daño.
+[2024-04-01 14:18:33] La vida de Grul'kash El Destructor es de 89 puntos.
+[2024-04-01 14:18:33] 
+----- Ronda 4 -----
+[2024-04-01 14:18:33] Es el turno de Grul'kash El Destructor
+[2024-04-01 14:18:33] Grul'kash: 'AGGAGGHH!!!'
+[2024-04-01 14:18:33] Grul'kash El Destructor ataca a Thokk El Colosal y causa -5 puntos de daño.
+[2024-04-01 14:18:33] La vida de Thokk El Colosal es de 95 puntos.
+[2024-04-01 14:18:33] Es el turno de Thokk El Colosal
+[2024-04-01 14:18:33] Thokk: 'AGGAGGHH!!!'
+[2024-04-01 14:18:33] Thokk El Colosal ataca a Grul'kash El Destructor y causa -20 puntos de daño.
+[2024-04-01 14:18:33] La vida de Grul'kash El Destructor es de 70 puntos.
+[2024-04-01 14:18:33] 
+----- Ronda 5 -----
+[2024-04-01 14:18:33] Es el turno de Grul'kash El Destructor
+[2024-04-01 14:18:33] Grul'kash: 'UHH!!!'
+[2024-04-01 14:18:33] Grul'kash El Destructor ataca a Thokk El Colosal y causa 0 puntos de daño.
+[2024-04-01 14:18:33] La vida de Thokk El Colosal es de 95 puntos.
+[2024-04-01 14:18:33] Es el turno de Thokk El Colosal
+[2024-04-01 14:18:33] Thokk: 'UHH!!!'
+[2024-04-01 14:18:33] Thokk El Colosal ataca a Grul'kash El Destructor y causa 0 puntos de daño.
+[2024-04-01 14:18:33] La vida de Grul'kash El Destructor es de 70 puntos.
+[2024-04-01 14:18:33] 
+----- Ronda 6 -----
+[2024-04-01 14:18:33] Es el turno de Grul'kash El Destructor
+[2024-04-01 14:18:33] Grul'kash: 'UHH!!!'
+[2024-04-01 14:18:33] Grul'kash El Destructor ataca a Thokk El Colosal y causa 0 puntos de daño.
+[2024-04-01 14:18:33] La vida de Thokk El Colosal es de 95 puntos.
+[2024-04-01 14:18:33] Es el turno de Thokk El Colosal
+[2024-04-01 14:18:33] Thokk: 'AGGAGGHH!!!'
+[2024-04-01 14:18:33] Thokk El Colosal ataca a Grul'kash El Destructor y causa -19 puntos de daño.
+[2024-04-01 14:18:33] La vida de Grul'kash El Destructor es de 52 puntos.
+[2024-04-01 14:18:33] 
+----- Ronda 7 -----
+[2024-04-01 14:18:33] Es el turno de Grul'kash El Destructor
+[2024-04-01 14:18:33] Grul'kash: 'UHH!!!'
+[2024-04-01 14:18:33] Grul'kash El Destructor ataca a Thokk El Colosal y causa 0 puntos de daño.
+[2024-04-01 14:18:33] La vida de Thokk El Colosal es de 95 puntos.
+[2024-04-01 14:18:33] Es el turno de Thokk El Colosal
+[2024-04-01 14:18:33] Thokk: 'AGGAGGHH!!!'
+[2024-04-01 14:18:33] Thokk El Colosal ataca a Grul'kash El Destructor y causa -14 puntos de daño.
+[2024-04-01 14:18:33] La vida de Grul'kash El Destructor es de 39 puntos.
+[2024-04-01 14:18:33] 
+Las cartas de Lucho son las siguientes:
+
+[2024-04-01 14:18:33] Carta {Raza=OGRE, Nombre='Grul'kash', Alias='El Hambriento', Fecha Nacimiento=1904-06-15, Edad=119, Nivel=1, Vida=100, Fuerza=18, Velocidad=8, Destreza=9, Armadura=10}
+[2024-04-01 14:18:33] ----------
+
+[2024-04-01 14:18:33] Carta {Raza=DWARF, Nombre='Thimuk', Alias='El Forjador', Fecha Nacimiento=1904-08-26, Edad=119, Nivel=1, Vida=100, Fuerza=14, Velocidad=9, Destreza=9, Armadura=19}
+[2024-04-01 14:18:33] ----------
+
+[2024-04-01 14:18:33] Carta {Raza=OGRE, Nombre='Thokk', Alias='El Colosal', Fecha Nacimiento=1923-08-07, Edad=100, Nivel=1, Vida=95, Fuerza=20, Velocidad=6, Destreza=10, Armadura=12}
+[2024-04-01 14:18:33] ----------
+
+[2024-04-01 14:18:33] 
+Las cartas de Aylen son las siguientes:
+
+[2024-04-01 14:18:33] Carta {Raza=HUMAN, Nombre='Cedric', Alias='El Loco', Fecha Nacimiento=2004-11-19, Edad=19, Nivel=1, Vida=100, Fuerza=7, Velocidad=12, Destreza=12, Armadura=15}
+[2024-04-01 14:18:33] ----------
+
+[2024-04-01 14:18:33] Carta {Raza=OGRE, Nombre='Grul'kash', Alias='El Destructor', Fecha Nacimiento=1938-03-26, Edad=86, Nivel=1, Vida=39, Fuerza=20, Velocidad=8, Destreza=10, Armadura=10}
+[2024-04-01 14:18:33] ----------
+
+[2024-04-01 14:18:33] Lucho seleccionó: Grul'kash El Hambriento
+[2024-04-01 14:18:33] Aylen seleccionó: Cedric El Loco
+[2024-04-01 14:18:33] 
+----- Ronda 1 -----
+[2024-04-01 14:18:33] Es el turno de Cedric El Loco
+[2024-04-01 14:18:33] Cedric: 'Eres muy hábil esquivando!!!'
+[2024-04-01 14:18:33] Cedric El Loco ataca a Grul'kash El Hambriento y causa -12 puntos de daño.
+[2024-04-01 14:18:33] La vida de Grul'kash El Hambriento es de 88 puntos.
+[2024-04-01 14:18:33] Es el turno de Grul'kash El Hambriento
+[2024-04-01 14:18:33] Grul'kash: 'Pronto te saborearé!!!'
+[2024-04-01 14:18:33] Grul'kash El Hambriento ataca a Cedric El Loco y causa -25 puntos de daño.
+[2024-04-01 14:18:33] La vida de Cedric El Loco es de 77 puntos.
+[2024-04-01 14:18:33] 
+----- Ronda 2 -----
+[2024-04-01 14:18:33] Es el turno de Cedric El Loco
+[2024-04-01 14:18:33] Cedric: 'Terminemos con esto de una vez!!!'
+[2024-04-01 14:18:33] Cedric El Loco ataca a Grul'kash El Hambriento y causa -23 puntos de daño.
+[2024-04-01 14:18:33] La vida de Grul'kash El Hambriento es de 66 puntos.
+[2024-04-01 14:18:33] Es el turno de Grul'kash El Hambriento
+[2024-04-01 14:18:33] Grul'kash: 'AGGAGGHH!!!'
+[2024-04-01 14:18:33] Grul'kash El Hambriento ataca a Cedric El Loco y causa -16 puntos de daño.
+[2024-04-01 14:18:33] La vida de Cedric El Loco es de 62 puntos.
+[2024-04-01 14:18:33] 
+----- Ronda 3 -----
+[2024-04-01 14:18:33] Es el turno de Cedric El Loco
+[2024-04-01 14:18:33] Cedric: 'Eres muy hábil esquivando!!!'
+[2024-04-01 14:18:33] Cedric El Loco ataca a Grul'kash El Hambriento y causa -13 puntos de daño.
+[2024-04-01 14:18:33] La vida de Grul'kash El Hambriento es de 53 puntos.
+[2024-04-01 14:18:33] Es el turno de Grul'kash El Hambriento
+[2024-04-01 14:18:33] Grul'kash: 'AGGAGGHH!!!'
+[2024-04-01 14:18:33] Grul'kash El Hambriento ataca a Cedric El Loco y causa -9 puntos de daño.
+[2024-04-01 14:18:33] La vida de Cedric El Loco es de 53 puntos.
+[2024-04-01 14:18:33] 
+----- Ronda 4 -----
+[2024-04-01 14:18:33] Es el turno de Cedric El Loco
+[2024-04-01 14:18:33] Cedric: 'Eres muy hábil esquivando!!!'
+[2024-04-01 14:18:33] Cedric El Loco ataca a Grul'kash El Hambriento y causa -11 puntos de daño.
+[2024-04-01 14:18:33] La vida de Grul'kash El Hambriento es de 42 puntos.
+[2024-04-01 14:18:33] Es el turno de Grul'kash El Hambriento
+[2024-04-01 14:18:33] Grul'kash: 'AGGAGGHH!!!'
+[2024-04-01 14:18:33] Grul'kash El Hambriento ataca a Cedric El Loco y causa -16 puntos de daño.
+[2024-04-01 14:18:33] La vida de Cedric El Loco es de 38 puntos.
+[2024-04-01 14:18:33] 
+----- Ronda 5 -----
+[2024-04-01 14:18:33] Es el turno de Cedric El Loco
+[2024-04-01 14:18:33] Cedric: 'Terminemos con esto de una vez!!!'
+[2024-04-01 14:18:33] Cedric El Loco ataca a Grul'kash El Hambriento y causa -24 puntos de daño.
+[2024-04-01 14:18:33] La vida de Grul'kash El Hambriento es de 19 puntos.
+[2024-04-01 14:18:33] Es el turno de Grul'kash El Hambriento
+[2024-04-01 14:18:33] Grul'kash: 'AGGAGGHH!!!'
+[2024-04-01 14:18:33] Grul'kash El Hambriento ataca a Cedric El Loco y causa -9 puntos de daño.
+[2024-04-01 14:18:33] La vida de Cedric El Loco es de 29 puntos.
+[2024-04-01 14:18:33] 
+----- Ronda 6 -----
+[2024-04-01 14:18:33] Es el turno de Grul'kash El Hambriento
+[2024-04-01 14:18:33] Grul'kash: 'AGGAGGHH!!!'
+[2024-04-01 14:18:33] Grul'kash El Hambriento ataca a Cedric El Loco y causa -13 puntos de daño.
+[2024-04-01 14:18:33] La vida de Cedric El Loco es de 17 puntos.
+[2024-04-01 14:18:33] Es el turno de Cedric El Loco
+[2024-04-01 14:18:33] Cedric: 'Terminemos con esto de una vez!!!'
+[2024-04-01 14:18:33] Cedric El Loco ataca a Grul'kash El Hambriento y causa -23 puntos de daño.
+[2024-04-01 14:18:33] La vida de Grul'kash El Hambriento es de 0 puntos.
+[2024-04-01 14:18:33] Grul'kash El Hambriento ha sido derrotado!
+[2024-04-01 14:18:33] Cedric ha recuperado su vida a 100 puntos.
+[2024-04-01 14:18:33] 
+Las cartas de Lucho son las siguientes:
+
+[2024-04-01 14:18:33] Carta {Raza=DWARF, Nombre='Thimuk', Alias='El Forjador', Fecha Nacimiento=1904-08-26, Edad=119, Nivel=1, Vida=100, Fuerza=14, Velocidad=9, Destreza=9, Armadura=19}
+[2024-04-01 14:18:33] ----------
+
+[2024-04-01 14:18:33] Carta {Raza=OGRE, Nombre='Thokk', Alias='El Colosal', Fecha Nacimiento=1923-08-07, Edad=100, Nivel=1, Vida=95, Fuerza=20, Velocidad=6, Destreza=10, Armadura=12}
+[2024-04-01 14:18:33] ----------
+
+[2024-04-01 14:18:33] 
+Las cartas de Aylen son las siguientes:
+
+[2024-04-01 14:18:33] Carta {Raza=OGRE, Nombre='Grul'kash', Alias='El Destructor', Fecha Nacimiento=1938-03-26, Edad=86, Nivel=1, Vida=39, Fuerza=20, Velocidad=8, Destreza=10, Armadura=10}
+[2024-04-01 14:18:33] ----------
+
+[2024-04-01 14:18:33] Carta {Raza=HUMAN, Nombre='Cedric', Alias='El Loco', Fecha Nacimiento=2004-11-19, Edad=19, Nivel=1, Vida=100, Fuerza=7, Velocidad=12, Destreza=12, Armadura=15}
+[2024-04-01 14:18:33] ----------
+
+[2024-04-01 14:18:33] Lucho seleccionó: Thimuk El Forjador
+[2024-04-01 14:18:33] Aylen seleccionó: Cedric El Loco
+[2024-04-01 14:18:33] 
+----- Ronda 1 -----
+[2024-04-01 14:18:33] Es el turno de Cedric El Loco
+[2024-04-01 14:18:33] Cedric: 'Terminemos con esto de una vez!!!'
+[2024-04-01 14:18:33] Cedric El Loco ataca a Thimuk El Forjador y causa -22 puntos de daño.
+[2024-04-01 14:18:33] La vida de Thimuk El Forjador es de 79 puntos.
+[2024-04-01 14:18:33] Es el turno de Thimuk El Forjador
+[2024-04-01 14:18:33] Thimuk: 'Su hacha se enciende y acesta un Golpe Crítico!!!'
+[2024-04-01 14:18:33] Thimuk El Forjador ataca a Cedric El Loco y causa -35 puntos de daño.
+[2024-04-01 14:18:33] La vida de Cedric El Loco es de 67 puntos.
+[2024-04-01 14:18:33] 
+----- Ronda 2 -----
+[2024-04-01 14:18:33] Es el turno de Cedric El Loco
+[2024-04-01 14:18:33] Cedric: 'Terminemos con esto de una vez!!!'
+[2024-04-01 14:18:33] Cedric El Loco ataca a Thimuk El Forjador y causa -26 puntos de daño.
+[2024-04-01 14:18:33] La vida de Thimuk El Forjador es de 54 puntos.
+[2024-04-01 14:18:33] Es el turno de Thimuk El Forjador
+[2024-04-01 14:18:33] Thimuk: 'Jaaa!! Ese golpe lo has sentido!!!'
+[2024-04-01 14:18:33] Thimuk El Forjador ataca a Cedric El Loco y causa -28 puntos de daño.
+[2024-04-01 14:18:33] La vida de Cedric El Loco es de 41 puntos.
+[2024-04-01 14:18:33] 
+----- Ronda 3 -----
+[2024-04-01 14:18:33] Es el turno de Cedric El Loco
+[2024-04-01 14:18:33] Cedric: 'Terminemos con esto de una vez!!!'
+[2024-04-01 14:18:33] Cedric El Loco ataca a Thimuk El Forjador y causa -27 puntos de daño.
+[2024-04-01 14:18:33] La vida de Thimuk El Forjador es de 28 puntos.
+[2024-04-01 14:18:33] Es el turno de Thimuk El Forjador
+[2024-04-01 14:18:33] Thimuk: 'Jaaa!! Ese golpe lo has sentido!!!'
+[2024-04-01 14:18:33] Thimuk El Forjador ataca a Cedric El Loco y causa -27 puntos de daño.
+[2024-04-01 14:18:33] La vida de Cedric El Loco es de 16 puntos.
+[2024-04-01 14:18:33] 
+----- Ronda 4 -----
+[2024-04-01 14:18:33] Es el turno de Cedric El Loco
+[2024-04-01 14:18:33] Cedric: 'Eres muy hábil esquivando!!!'
+[2024-04-01 14:18:33] Cedric El Loco ataca a Thimuk El Forjador y causa -15 puntos de daño.
+[2024-04-01 14:18:33] La vida de Thimuk El Forjador es de 13 puntos.
+[2024-04-01 14:18:33] Es el turno de Thimuk El Forjador
+[2024-04-01 14:18:33] Thimuk: 'Su hacha se enciende y acesta un Golpe Crítico!!!'
+[2024-04-01 14:18:33] Thimuk El Forjador ataca a Cedric El Loco y causa -44 puntos de daño.
+[2024-04-01 14:18:33] La vida de Cedric El Loco es de 0 puntos.
+[2024-04-01 14:18:33] Cedric El Loco ha sido derrotado!
+[2024-04-01 14:18:33] Thimuk ha subido de nivel a 2!
+[2024-04-01 14:18:33] 
+Las cartas de Lucho son las siguientes:
+
+[2024-04-01 14:18:33] Carta {Raza=OGRE, Nombre='Thokk', Alias='El Colosal', Fecha Nacimiento=1923-08-07, Edad=100, Nivel=1, Vida=95, Fuerza=20, Velocidad=6, Destreza=10, Armadura=12}
+[2024-04-01 14:18:33] ----------
+
+[2024-04-01 14:18:33] Carta {Raza=DWARF, Nombre='Thimuk', Alias='El Forjador', Fecha Nacimiento=1904-08-26, Edad=119, Nivel=2, Vida=13, Fuerza=14, Velocidad=9, Destreza=9, Armadura=19}
+[2024-04-01 14:18:33] ----------
+
+[2024-04-01 14:18:33] 
+Las cartas de Aylen son las siguientes:
+
+[2024-04-01 14:18:33] Carta {Raza=OGRE, Nombre='Grul'kash', Alias='El Destructor', Fecha Nacimiento=1938-03-26, Edad=86, Nivel=1, Vida=39, Fuerza=20, Velocidad=8, Destreza=10, Armadura=10}
+[2024-04-01 14:18:33] ----------
+
+[2024-04-01 14:18:33] Lucho seleccionó: Thimuk El Forjador
+[2024-04-01 14:18:33] Aylen seleccionó: Grul'kash El Destructor
+[2024-04-01 14:18:33] 
+----- Ronda 1 -----
+[2024-04-01 14:18:33] Es el turno de Thimuk El Forjador
+[2024-04-01 14:18:33] Thimuk: 'Mi hacha debe estar desafilada...'
+[2024-04-01 14:18:33] Thimuk El Forjador ataca a Grul'kash El Destructor y causa 0 puntos de daño.
+[2024-04-01 14:18:33] La vida de Grul'kash El Destructor es de 39 puntos.
+[2024-04-01 14:18:33] Es el turno de Grul'kash El Destructor
+[2024-04-01 14:18:33] Grul'kash: 'UHH!!!'
+[2024-04-01 14:18:33] Grul'kash El Destructor ataca a Thimuk El Forjador y causa 0 puntos de daño.
+[2024-04-01 14:18:33] La vida de Thimuk El Forjador es de 13 puntos.
+[2024-04-01 14:18:33] 
+----- Ronda 2 -----
+[2024-04-01 14:18:33] Es el turno de Thimuk El Forjador
+[2024-04-01 14:18:33] Thimuk: 'Jaaa!! Ese golpe lo has sentido!!!'
+[2024-04-01 14:18:33] Thimuk El Forjador ataca a Grul'kash El Destructor y causa -31 puntos de daño.
+[2024-04-01 14:18:33] La vida de Grul'kash El Destructor es de 10 puntos.
+[2024-04-01 14:18:33] Es el turno de Grul'kash El Destructor
+[2024-04-01 14:18:33] Grul'kash: 'AGGAGGHH!!!'
+[2024-04-01 14:18:33] Grul'kash El Destructor ataca a Thimuk El Forjador y causa -4 puntos de daño.
+[2024-04-01 14:18:33] La vida de Thimuk El Forjador es de 9 puntos.
+[2024-04-01 14:18:33] 
+----- Ronda 3 -----
+[2024-04-01 14:18:33] Es el turno de Thimuk El Forjador
+[2024-04-01 14:18:33] Thimuk: 'Jaaa!! Ese golpe lo has sentido!!!'
+[2024-04-01 14:18:33] Thimuk El Forjador ataca a Grul'kash El Destructor y causa -24 puntos de daño.
+[2024-04-01 14:18:33] La vida de Grul'kash El Destructor es de 0 puntos.
+[2024-04-01 14:18:33] Grul'kash El Destructor ha sido derrotado!
+[2024-04-01 14:18:33] Thimuk ha subido de nivel a 3!
+[2024-04-01 14:18:33] 
+Las cartas de Lucho son las siguientes:
+
+[2024-04-01 14:18:33] Carta {Raza=OGRE, Nombre='Thokk', Alias='El Colosal', Fecha Nacimiento=1923-08-07, Edad=100, Nivel=1, Vida=95, Fuerza=20, Velocidad=6, Destreza=10, Armadura=12}
+[2024-04-01 14:18:33] ----------
+
+[2024-04-01 14:18:33] Carta {Raza=DWARF, Nombre='Thimuk', Alias='El Forjador', Fecha Nacimiento=1904-08-26, Edad=119, Nivel=3, Vida=9, Fuerza=14, Velocidad=9, Destreza=9, Armadura=19}
+[2024-04-01 14:18:33] ----------
+
+[2024-04-01 14:18:33] 
+Las cartas de Aylen son las siguientes:
+
+[2024-04-01 14:18:33] Sin cartas en la mano de Aylen
+[2024-04-01 14:18:33] Fin del Juego
+[2024-04-01 14:18:33] Lucho ha conquistado el trono de hierro!
+[2024-04-01 14:19:33] Se ha agregado 1 carta a la mano de Luch
+[2024-04-01 14:19:33] Se ha agregado 1 carta a la mano de Luch
+[2024-04-01 14:19:33] Se ha agregado 1 carta a la mano de Ay
+[2024-04-01 14:19:33] Se ha agregado 1 carta a la mano de Ay
+[2024-04-01 14:19:33] Se ha agregado 1 carta a la mano de Ay
+[2024-04-01 14:19:33] 
+Las cartas de Luch son las siguientes:
+
+[2024-04-01 14:19:33] Carta {Raza=OGRE, Nombre='Thokk', Alias='El Colosal', Fecha Nacimiento=1923-08-07, Edad=100, Nivel=1, Vida=95, Fuerza=20, Velocidad=6, Destreza=10, Armadura=12}
+[2024-04-01 14:19:33] ----------
+
+[2024-04-01 14:19:33] Carta {Raza=WITCHER, Nombre='Beck Riddle', Alias='La Sombra Encantada', Fecha Nacimiento=1828-04-23, Edad=195, Nivel=1, Vida=100, Fuerza=6, Velocidad=15, Destreza=15, Armadura=6}
+[2024-04-01 14:19:33] ----------
+
+[2024-04-01 14:19:33] Carta {Raza=DWARF, Nombre='Dain', Alias='El Birrero', Fecha Nacimiento=1933-06-19, Edad=90, Nivel=1, Vida=100, Fuerza=14, Velocidad=6, Destreza=10, Armadura=15}
+[2024-04-01 14:19:33] ----------
+
+[2024-04-01 14:19:33] 
+Las cartas de Ay son las siguientes:
+
+[2024-04-01 14:19:33] Carta {Raza=DWARF, Nombre='Balin', Alias='El Birrero', Fecha Nacimiento=1892-12-30, Edad=131, Nivel=1, Vida=100, Fuerza=15, Velocidad=8, Destreza=7, Armadura=17}
+[2024-04-01 14:19:33] ----------
+
+[2024-04-01 14:19:33] Carta {Raza=DWARF, Nombre='Dain', Alias='El Minero', Fecha Nacimiento=1952-05-09, Edad=71, Nivel=1, Vida=100, Fuerza=11, Velocidad=8, Destreza=10, Armadura=19}
+[2024-04-01 14:19:33] ----------
+
+[2024-04-01 14:19:33] Carta {Raza=ELF, Nombre='Lirael', Alias='El Sigiloso', Fecha Nacimiento=1815-04-27, Edad=208, Nivel=1, Vida=100, Fuerza=5, Velocidad=11, Destreza=16, Armadura=7}
+[2024-04-01 14:19:33] ----------
+
+[2024-04-01 14:19:33] Luch seleccionó: Dain El Birrero
+[2024-04-01 14:19:33] Ay seleccionó: Dain El Minero
+[2024-04-01 14:19:33] 
+----- Ronda 1 -----
+[2024-04-01 14:19:33] Es el turno de Dain El Minero
+[2024-04-01 14:19:33] Dain: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 14:19:33] Dain El Minero ataca a Dain El Birrero y causa -14 puntos de daño.
+[2024-04-01 14:19:33] La vida de Dain El Birrero es de 87 puntos.
+[2024-04-01 14:19:33] Es el turno de Dain El Birrero
+[2024-04-01 14:19:33] Dain: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 14:19:33] Dain El Birrero ataca a Dain El Minero y causa -18 puntos de daño.
+[2024-04-01 14:19:33] La vida de Dain El Minero es de 83 puntos.
+[2024-04-01 14:19:33] 
+----- Ronda 2 -----
+[2024-04-01 14:19:33] Es el turno de Dain El Minero
+[2024-04-01 14:19:33] Dain: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 14:19:33] Dain El Minero ataca a Dain El Birrero y causa -5 puntos de daño.
+[2024-04-01 14:19:33] La vida de Dain El Birrero es de 82 puntos.
+[2024-04-01 14:19:33] Es el turno de Dain El Birrero
+[2024-04-01 14:19:33] Dain: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 14:19:33] Dain El Birrero ataca a Dain El Minero y causa -3 puntos de daño.
+[2024-04-01 14:19:33] La vida de Dain El Minero es de 80 puntos.
+[2024-04-01 14:19:33] 
+----- Ronda 3 -----
+[2024-04-01 14:19:33] Es el turno de Dain El Minero
+[2024-04-01 14:19:33] Dain: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 14:19:33] Dain El Minero ataca a Dain El Birrero y causa -16 puntos de daño.
+[2024-04-01 14:19:33] La vida de Dain El Birrero es de 67 puntos.
+[2024-04-01 14:19:33] Es el turno de Dain El Birrero
+[2024-04-01 14:19:33] Dain: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 14:19:33] Dain El Birrero ataca a Dain El Minero y causa -8 puntos de daño.
+[2024-04-01 14:19:33] La vida de Dain El Minero es de 72 puntos.
+[2024-04-01 14:19:33] 
+----- Ronda 4 -----
+[2024-04-01 14:19:33] Es el turno de Dain El Birrero
+[2024-04-01 14:19:33] Dain: 'Jaaa!! Ese golpe lo has sentido!!!'
+[2024-04-01 14:19:33] Dain El Birrero ataca a Dain El Minero y causa -22 puntos de daño.
+[2024-04-01 14:19:33] La vida de Dain El Minero es de 51 puntos.
+[2024-04-01 14:19:33] Es el turno de Dain El Minero
+[2024-04-01 14:19:33] Dain: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 14:19:33] Dain El Minero ataca a Dain El Birrero y causa -20 puntos de daño.
+[2024-04-01 14:19:33] La vida de Dain El Birrero es de 48 puntos.
+[2024-04-01 14:19:33] 
+----- Ronda 5 -----
+[2024-04-01 14:19:33] Es el turno de Dain El Birrero
+[2024-04-01 14:19:33] Dain: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 14:19:33] Dain El Birrero ataca a Dain El Minero y causa -15 puntos de daño.
+[2024-04-01 14:19:33] La vida de Dain El Minero es de 37 puntos.
+[2024-04-01 14:19:33] Es el turno de Dain El Minero
+[2024-04-01 14:19:33] Dain: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 14:19:33] Dain El Minero ataca a Dain El Birrero y causa -20 puntos de daño.
+[2024-04-01 14:19:33] La vida de Dain El Birrero es de 29 puntos.
+[2024-04-01 14:19:33] 
+----- Ronda 6 -----
+[2024-04-01 14:19:33] Es el turno de Dain El Birrero
+[2024-04-01 14:19:33] Dain: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 14:19:33] Dain El Birrero ataca a Dain El Minero y causa -18 puntos de daño.
+[2024-04-01 14:19:33] La vida de Dain El Minero es de 20 puntos.
+[2024-04-01 14:19:33] Es el turno de Dain El Minero
+[2024-04-01 14:19:33] Dain: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 14:19:33] Dain El Minero ataca a Dain El Birrero y causa -10 puntos de daño.
+[2024-04-01 14:19:33] La vida de Dain El Birrero es de 19 puntos.
+[2024-04-01 14:19:33] 
+----- Ronda 7 -----
+[2024-04-01 14:19:33] Es el turno de Dain El Birrero
+[2024-04-01 14:19:33] Dain: 'Jaaa!! Ese golpe lo has sentido!!!'
+[2024-04-01 14:19:33] Dain El Birrero ataca a Dain El Minero y causa -24 puntos de daño.
+[2024-04-01 14:19:33] La vida de Dain El Minero es de 0 puntos.
+[2024-04-01 14:19:33] Dain El Minero ha sido derrotado!
+[2024-04-01 14:19:33] Dain ha recuperado su vida a 100 puntos.
+[2024-04-01 14:19:33] 
+Las cartas de Luch son las siguientes:
+
+[2024-04-01 14:19:33] Carta {Raza=OGRE, Nombre='Thokk', Alias='El Colosal', Fecha Nacimiento=1923-08-07, Edad=100, Nivel=1, Vida=95, Fuerza=20, Velocidad=6, Destreza=10, Armadura=12}
+[2024-04-01 14:19:33] ----------
+
+[2024-04-01 14:19:33] Carta {Raza=WITCHER, Nombre='Beck Riddle', Alias='La Sombra Encantada', Fecha Nacimiento=1828-04-23, Edad=195, Nivel=1, Vida=100, Fuerza=6, Velocidad=15, Destreza=15, Armadura=6}
+[2024-04-01 14:19:33] ----------
+
+[2024-04-01 14:19:33] Carta {Raza=DWARF, Nombre='Dain', Alias='El Birrero', Fecha Nacimiento=1933-06-19, Edad=90, Nivel=1, Vida=100, Fuerza=14, Velocidad=6, Destreza=10, Armadura=15}
+[2024-04-01 14:19:33] ----------
+
+[2024-04-01 14:19:33] 
+Las cartas de Ay son las siguientes:
+
+[2024-04-01 14:19:33] Carta {Raza=DWARF, Nombre='Balin', Alias='El Birrero', Fecha Nacimiento=1892-12-30, Edad=131, Nivel=1, Vida=100, Fuerza=15, Velocidad=8, Destreza=7, Armadura=17}
+[2024-04-01 14:19:33] ----------
+
+[2024-04-01 14:19:33] Carta {Raza=ELF, Nombre='Lirael', Alias='El Sigiloso', Fecha Nacimiento=1815-04-27, Edad=208, Nivel=1, Vida=100, Fuerza=5, Velocidad=11, Destreza=16, Armadura=7}
+[2024-04-01 14:19:33] ----------
+
+[2024-04-01 14:19:33] Luch seleccionó: Thokk El Colosal
+[2024-04-01 14:19:33] Ay seleccionó: Lirael El Sigiloso
+[2024-04-01 14:19:33] 
+----- Ronda 1 -----
+[2024-04-01 14:19:33] Es el turno de Thokk El Colosal
+[2024-04-01 14:19:33] Thokk: 'AGGAGGHH!!!'
+[2024-04-01 14:19:33] Thokk El Colosal ataca a Lirael El Sigiloso y causa -6 puntos de daño.
+[2024-04-01 14:19:33] La vida de Lirael El Sigiloso es de 94 puntos.
+[2024-04-01 14:19:33] Es el turno de Lirael El Sigiloso
+[2024-04-01 14:19:33] Lirael: 'Si que sabes defenderte!!!'
+[2024-04-01 14:19:33] Lirael El Sigiloso ataca a Thokk El Colosal y causa -7 puntos de daño.
+[2024-04-01 14:19:33] La vida de Thokk El Colosal es de 88 puntos.
+[2024-04-01 14:19:33] 
+----- Ronda 2 -----
+[2024-04-01 14:19:33] Es el turno de Thokk El Colosal
+[2024-04-01 14:19:33] Thokk: 'AGGAGGHH!!!'
+[2024-04-01 14:19:33] Thokk El Colosal ataca a Lirael El Sigiloso y causa -4 puntos de daño.
+[2024-04-01 14:19:33] La vida de Lirael El Sigiloso es de 90 puntos.
+[2024-04-01 14:19:33] Es el turno de Lirael El Sigiloso
+[2024-04-01 14:19:33] Lirael: 'Si que sabes defenderte!!!'
+[2024-04-01 14:19:33] Lirael El Sigiloso ataca a Thokk El Colosal y causa -3 puntos de daño.
+[2024-04-01 14:19:33] La vida de Thokk El Colosal es de 85 puntos.
+[2024-04-01 14:19:33] 
+----- Ronda 3 -----
+[2024-04-01 14:19:33] Es el turno de Thokk El Colosal
+[2024-04-01 14:19:33] Thokk: 'AGGAGGHH!!!'
+[2024-04-01 14:19:33] Thokk El Colosal ataca a Lirael El Sigiloso y causa -13 puntos de daño.
+[2024-04-01 14:19:33] La vida de Lirael El Sigiloso es de 78 puntos.
+[2024-04-01 14:19:33] Es el turno de Lirael El Sigiloso
+[2024-04-01 14:19:33] Lirael: 'Los vientos han desviado mi disparo...'
+[2024-04-01 14:19:33] Lirael El Sigiloso ataca a Thokk El Colosal y causa 0 puntos de daño.
+[2024-04-01 14:19:33] La vida de Thokk El Colosal es de 85 puntos.
+[2024-04-01 14:19:33] 
+----- Ronda 4 -----
+[2024-04-01 14:19:33] Es el turno de Lirael El Sigiloso
+[2024-04-01 14:19:33] Lirael: 'Los vientos han desviado mi disparo...'
+[2024-04-01 14:19:33] Lirael El Sigiloso ataca a Thokk El Colosal y causa 0 puntos de daño.
+[2024-04-01 14:19:33] La vida de Thokk El Colosal es de 85 puntos.
+[2024-04-01 14:19:33] Es el turno de Thokk El Colosal
+[2024-04-01 14:19:33] Thokk: 'AGGAGGHH!!!'
+[2024-04-01 14:19:33] Thokk El Colosal ataca a Lirael El Sigiloso y causa -13 puntos de daño.
+[2024-04-01 14:19:33] La vida de Lirael El Sigiloso es de 66 puntos.
+[2024-04-01 14:19:33] 
+----- Ronda 5 -----
+[2024-04-01 14:19:33] Es el turno de Lirael El Sigiloso
+[2024-04-01 14:19:33] Lirael: 'Si que sabes defenderte!!!'
+[2024-04-01 14:19:33] Lirael El Sigiloso ataca a Thokk El Colosal y causa -3 puntos de daño.
+[2024-04-01 14:19:33] La vida de Thokk El Colosal es de 82 puntos.
+[2024-04-01 14:19:33] Es el turno de Thokk El Colosal
+[2024-04-01 14:19:33] Thokk: 'Pronto te saborearé!!!'
+[2024-04-01 14:19:33] Thokk El Colosal ataca a Lirael El Sigiloso y causa -27 puntos de daño.
+[2024-04-01 14:19:33] La vida de Lirael El Sigiloso es de 41 puntos.
+[2024-04-01 14:19:33] 
+----- Ronda 6 -----
+[2024-04-01 14:19:33] Es el turno de Lirael El Sigiloso
+[2024-04-01 14:19:33] Lirael: 'Los vientos han desviado mi disparo...'
+[2024-04-01 14:19:33] Lirael El Sigiloso ataca a Thokk El Colosal y causa 0 puntos de daño.
+[2024-04-01 14:19:33] La vida de Thokk El Colosal es de 82 puntos.
+[2024-04-01 14:19:33] Es el turno de Thokk El Colosal
+[2024-04-01 14:19:33] Thokk: 'UHH!!!'
+[2024-04-01 14:19:33] Thokk El Colosal ataca a Lirael El Sigiloso y causa 0 puntos de daño.
+[2024-04-01 14:19:33] La vida de Lirael El Sigiloso es de 41 puntos.
+[2024-04-01 14:19:33] 
+----- Ronda 7 -----
+[2024-04-01 14:19:33] Es el turno de Lirael El Sigiloso
+[2024-04-01 14:19:33] Lirael: 'Si que sabes defenderte!!!'
+[2024-04-01 14:19:33] Lirael El Sigiloso ataca a Thokk El Colosal y causa -7 puntos de daño.
+[2024-04-01 14:19:33] La vida de Thokk El Colosal es de 75 puntos.
+[2024-04-01 14:19:33] Es el turno de Thokk El Colosal
+[2024-04-01 14:19:33] Thokk: 'AGGAGGHH!!!'
+[2024-04-01 14:19:33] Thokk El Colosal ataca a Lirael El Sigiloso y causa -8 puntos de daño.
+[2024-04-01 14:19:33] La vida de Lirael El Sigiloso es de 33 puntos.
+[2024-04-01 14:19:33] 
+Las cartas de Luch son las siguientes:
+
+[2024-04-01 14:19:33] Carta {Raza=WITCHER, Nombre='Beck Riddle', Alias='La Sombra Encantada', Fecha Nacimiento=1828-04-23, Edad=195, Nivel=1, Vida=100, Fuerza=6, Velocidad=15, Destreza=15, Armadura=6}
+[2024-04-01 14:19:33] ----------
+
+[2024-04-01 14:19:33] Carta {Raza=DWARF, Nombre='Dain', Alias='El Birrero', Fecha Nacimiento=1933-06-19, Edad=90, Nivel=1, Vida=100, Fuerza=14, Velocidad=6, Destreza=10, Armadura=15}
+[2024-04-01 14:19:33] ----------
+
+[2024-04-01 14:19:33] Carta {Raza=OGRE, Nombre='Thokk', Alias='El Colosal', Fecha Nacimiento=1923-08-07, Edad=100, Nivel=1, Vida=75, Fuerza=20, Velocidad=6, Destreza=10, Armadura=12}
+[2024-04-01 14:19:33] ----------
+
+[2024-04-01 14:19:33] 
+Las cartas de Ay son las siguientes:
+
+[2024-04-01 14:19:33] Carta {Raza=DWARF, Nombre='Balin', Alias='El Birrero', Fecha Nacimiento=1892-12-30, Edad=131, Nivel=1, Vida=100, Fuerza=15, Velocidad=8, Destreza=7, Armadura=17}
+[2024-04-01 14:19:33] ----------
+
+[2024-04-01 14:19:33] Carta {Raza=ELF, Nombre='Lirael', Alias='El Sigiloso', Fecha Nacimiento=1815-04-27, Edad=208, Nivel=1, Vida=33, Fuerza=5, Velocidad=11, Destreza=16, Armadura=7}
+[2024-04-01 14:19:33] ----------
+
+[2024-04-01 14:19:33] Luch seleccionó: Dain El Birrero
+[2024-04-01 14:19:33] Ay seleccionó: Balin El Birrero
+[2024-04-01 14:19:33] 
+----- Ronda 1 -----
+[2024-04-01 14:19:33] Es el turno de Balin El Birrero
+[2024-04-01 14:19:33] Balin: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 14:19:33] Balin El Birrero ataca a Dain El Birrero y causa -18 puntos de daño.
+[2024-04-01 14:19:33] La vida de Dain El Birrero es de 83 puntos.
+[2024-04-01 14:19:33] Es el turno de Dain El Birrero
+[2024-04-01 14:19:33] Dain: 'Jaaa!! Ese golpe lo has sentido!!!'
+[2024-04-01 14:19:33] Dain El Birrero ataca a Balin El Birrero y causa -24 puntos de daño.
+[2024-04-01 14:19:33] La vida de Balin El Birrero es de 77 puntos.
+[2024-04-01 14:19:33] 
+----- Ronda 2 -----
+[2024-04-01 14:19:33] Es el turno de Balin El Birrero
+[2024-04-01 14:19:33] Balin: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 14:19:33] Balin El Birrero ataca a Dain El Birrero y causa -18 puntos de daño.
+[2024-04-01 14:19:33] La vida de Dain El Birrero es de 66 puntos.
+[2024-04-01 14:19:33] Es el turno de Dain El Birrero
+[2024-04-01 14:19:33] Dain: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 14:19:33] Dain El Birrero ataca a Balin El Birrero y causa -15 puntos de daño.
+[2024-04-01 14:19:33] La vida de Balin El Birrero es de 63 puntos.
+[2024-04-01 14:19:33] 
+----- Ronda 3 -----
+[2024-04-01 14:19:33] Es el turno de Balin El Birrero
+[2024-04-01 14:19:33] Balin: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 14:19:33] Balin El Birrero ataca a Dain El Birrero y causa -17 puntos de daño.
+[2024-04-01 14:19:33] La vida de Dain El Birrero es de 50 puntos.
+[2024-04-01 14:19:33] Es el turno de Dain El Birrero
+[2024-04-01 14:19:33] Dain: 'Jaaa!! Ese golpe lo has sentido!!!'
+[2024-04-01 14:19:33] Dain El Birrero ataca a Balin El Birrero y causa -22 puntos de daño.
+[2024-04-01 14:19:33] La vida de Balin El Birrero es de 42 puntos.
+[2024-04-01 14:19:33] 
+----- Ronda 4 -----
+[2024-04-01 14:19:33] Es el turno de Balin El Birrero
+[2024-04-01 14:19:33] Balin: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 14:19:33] Balin El Birrero ataca a Dain El Birrero y causa -19 puntos de daño.
+[2024-04-01 14:19:33] La vida de Dain El Birrero es de 32 puntos.
+[2024-04-01 14:19:33] Es el turno de Dain El Birrero
+[2024-04-01 14:19:33] Dain: 'Jaaa!! Ese golpe lo has sentido!!!'
+[2024-04-01 14:19:33] Dain El Birrero ataca a Balin El Birrero y causa -24 puntos de daño.
+[2024-04-01 14:19:33] La vida de Balin El Birrero es de 19 puntos.
+[2024-04-01 14:19:33] 
+----- Ronda 5 -----
+[2024-04-01 14:19:33] Es el turno de Balin El Birrero
+[2024-04-01 14:19:33] Balin: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 14:19:33] Balin El Birrero ataca a Dain El Birrero y causa -15 puntos de daño.
+[2024-04-01 14:19:33] La vida de Dain El Birrero es de 18 puntos.
+[2024-04-01 14:19:33] Es el turno de Dain El Birrero
+[2024-04-01 14:19:33] Dain: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 14:19:33] Dain El Birrero ataca a Balin El Birrero y causa -18 puntos de daño.
+[2024-04-01 14:19:33] La vida de Balin El Birrero es de 2 puntos.
+[2024-04-01 14:19:33] 
+----- Ronda 6 -----
+[2024-04-01 14:19:33] Es el turno de Balin El Birrero
+[2024-04-01 14:19:33] Balin: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 14:19:33] Balin El Birrero ataca a Dain El Birrero y causa -8 puntos de daño.
+[2024-04-01 14:19:33] La vida de Dain El Birrero es de 10 puntos.
+[2024-04-01 14:19:33] Es el turno de Dain El Birrero
+[2024-04-01 14:19:33] Dain: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 14:19:33] Dain El Birrero ataca a Balin El Birrero y causa -19 puntos de daño.
+[2024-04-01 14:19:33] La vida de Balin El Birrero es de 0 puntos.
+[2024-04-01 14:19:33] Balin El Birrero ha sido derrotado!
+[2024-04-01 14:19:33] Dain ha recuperado su vida a 100 puntos.
+[2024-04-01 14:19:33] 
+Las cartas de Luch son las siguientes:
+
+[2024-04-01 14:19:33] Carta {Raza=WITCHER, Nombre='Beck Riddle', Alias='La Sombra Encantada', Fecha Nacimiento=1828-04-23, Edad=195, Nivel=1, Vida=100, Fuerza=6, Velocidad=15, Destreza=15, Armadura=6}
+[2024-04-01 14:19:33] ----------
+
+[2024-04-01 14:19:33] Carta {Raza=OGRE, Nombre='Thokk', Alias='El Colosal', Fecha Nacimiento=1923-08-07, Edad=100, Nivel=1, Vida=75, Fuerza=20, Velocidad=6, Destreza=10, Armadura=12}
+[2024-04-01 14:19:33] ----------
+
+[2024-04-01 14:19:33] Carta {Raza=DWARF, Nombre='Dain', Alias='El Birrero', Fecha Nacimiento=1933-06-19, Edad=90, Nivel=1, Vida=100, Fuerza=14, Velocidad=6, Destreza=10, Armadura=15}
+[2024-04-01 14:19:33] ----------
+
+[2024-04-01 14:19:33] 
+Las cartas de Ay son las siguientes:
+
+[2024-04-01 14:19:33] Carta {Raza=ELF, Nombre='Lirael', Alias='El Sigiloso', Fecha Nacimiento=1815-04-27, Edad=208, Nivel=1, Vida=33, Fuerza=5, Velocidad=11, Destreza=16, Armadura=7}
+[2024-04-01 14:19:33] ----------
+
+[2024-04-01 14:19:33] Luch seleccionó: Beck Riddle La Sombra Encantada
+[2024-04-01 14:19:33] Ay seleccionó: Lirael El Sigiloso
+[2024-04-01 14:19:33] 
+----- Ronda 1 -----
+[2024-04-01 14:19:33] Es el turno de Lirael El Sigiloso
+[2024-04-01 14:19:33] Lirael: 'Si que sabes defenderte!!!'
+[2024-04-01 14:19:33] Lirael El Sigiloso ataca a Beck Riddle La Sombra Encantada y causa -17 puntos de daño.
+[2024-04-01 14:19:33] La vida de Beck Riddle La Sombra Encantada es de 84 puntos.
+[2024-04-01 14:19:33] Es el turno de Beck Riddle La Sombra Encantada
+[2024-04-01 14:19:33] Beck Riddle: 'Su ki es muy alto!!!'
+[2024-04-01 14:19:33] Beck Riddle La Sombra Encantada ataca a Lirael El Sigiloso y causa -11 puntos de daño.
+[2024-04-01 14:19:33] La vida de Lirael El Sigiloso es de 23 puntos.
+[2024-04-01 14:19:33] 
+----- Ronda 2 -----
+[2024-04-01 14:19:33] Es el turno de Lirael El Sigiloso
+[2024-04-01 14:19:33] Lirael: 'Si que sabes defenderte!!!'
+[2024-04-01 14:19:33] Lirael El Sigiloso ataca a Beck Riddle La Sombra Encantada y causa -12 puntos de daño.
+[2024-04-01 14:19:33] La vida de Beck Riddle La Sombra Encantada es de 72 puntos.
+[2024-04-01 14:19:33] Es el turno de Beck Riddle La Sombra Encantada
+[2024-04-01 14:19:33] Beck Riddle: 'Su ki es muy alto!!!'
+[2024-04-01 14:19:33] Beck Riddle La Sombra Encantada ataca a Lirael El Sigiloso y causa -8 puntos de daño.
+[2024-04-01 14:19:33] La vida de Lirael El Sigiloso es de 15 puntos.
+[2024-04-01 14:19:33] 
+----- Ronda 3 -----
+[2024-04-01 14:19:33] Es el turno de Lirael El Sigiloso
+[2024-04-01 14:19:33] Lirael: 'Si que sabes defenderte!!!'
+[2024-04-01 14:19:33] Lirael El Sigiloso ataca a Beck Riddle La Sombra Encantada y causa -18 puntos de daño.
+[2024-04-01 14:19:33] La vida de Beck Riddle La Sombra Encantada es de 55 puntos.
+[2024-04-01 14:19:33] Es el turno de Beck Riddle La Sombra Encantada
+[2024-04-01 14:19:33] Beck Riddle: 'Su ki es muy alto!!!'
+[2024-04-01 14:19:33] Beck Riddle La Sombra Encantada ataca a Lirael El Sigiloso y causa -13 puntos de daño.
+[2024-04-01 14:19:33] La vida de Lirael El Sigiloso es de 3 puntos.
+[2024-04-01 14:19:33] 
+----- Ronda 4 -----
+[2024-04-01 14:19:33] Es el turno de Lirael El Sigiloso
+[2024-04-01 14:19:33] Lirael: 'Si que sabes defenderte!!!'
+[2024-04-01 14:19:33] Lirael El Sigiloso ataca a Beck Riddle La Sombra Encantada y causa -15 puntos de daño.
+[2024-04-01 14:19:33] La vida de Beck Riddle La Sombra Encantada es de 41 puntos.
+[2024-04-01 14:19:33] Es el turno de Beck Riddle La Sombra Encantada
+[2024-04-01 14:19:33] Beck Riddle: 'Su ki es muy alto!!!'
+[2024-04-01 14:19:33] Beck Riddle La Sombra Encantada ataca a Lirael El Sigiloso y causa -2 puntos de daño.
+[2024-04-01 14:19:33] La vida de Lirael El Sigiloso es de 1 puntos.
+[2024-04-01 14:19:33] 
+----- Ronda 5 -----
+[2024-04-01 14:19:33] Es el turno de Lirael El Sigiloso
+[2024-04-01 14:19:33] Lirael: 'Si que sabes defenderte!!!'
+[2024-04-01 14:19:33] Lirael El Sigiloso ataca a Beck Riddle La Sombra Encantada y causa -20 puntos de daño.
+[2024-04-01 14:19:33] La vida de Beck Riddle La Sombra Encantada es de 22 puntos.
+[2024-04-01 14:19:33] Es el turno de Beck Riddle La Sombra Encantada
+[2024-04-01 14:19:33] Beck Riddle: 'Su ki es muy alto!!!'
+[2024-04-01 14:19:33] Beck Riddle La Sombra Encantada ataca a Lirael El Sigiloso y causa -1 puntos de daño.
+[2024-04-01 14:19:33] La vida de Lirael El Sigiloso es de 0 puntos.
+[2024-04-01 14:19:33] Lirael El Sigiloso ha sido derrotado!
+[2024-04-01 14:19:33] Beck Riddle ha recuperado su vida a 100 puntos.
+[2024-04-01 14:19:33] 
+Las cartas de Luch son las siguientes:
+
+[2024-04-01 14:19:33] Carta {Raza=OGRE, Nombre='Thokk', Alias='El Colosal', Fecha Nacimiento=1923-08-07, Edad=100, Nivel=1, Vida=75, Fuerza=20, Velocidad=6, Destreza=10, Armadura=12}
+[2024-04-01 14:19:33] ----------
+
+[2024-04-01 14:19:33] Carta {Raza=DWARF, Nombre='Dain', Alias='El Birrero', Fecha Nacimiento=1933-06-19, Edad=90, Nivel=1, Vida=100, Fuerza=14, Velocidad=6, Destreza=10, Armadura=15}
+[2024-04-01 14:19:33] ----------
+
+[2024-04-01 14:19:33] Carta {Raza=WITCHER, Nombre='Beck Riddle', Alias='La Sombra Encantada', Fecha Nacimiento=1828-04-23, Edad=195, Nivel=1, Vida=100, Fuerza=6, Velocidad=15, Destreza=15, Armadura=6}
+[2024-04-01 14:19:33] ----------
+
+[2024-04-01 14:19:33] 
+Las cartas de Ay son las siguientes:
+
+[2024-04-01 14:19:33] Sin cartas en la mano de Ay
+[2024-04-01 14:19:33] Fin del Juego
+[2024-04-01 14:19:33] Luch ha conquistado el trono de hierro!
+[2024-04-01 14:20:34] Se ha agregado 1 carta a la mano de Lucho
+[2024-04-01 14:20:34] Se ha agregado 1 carta a la mano de Lucho
+[2024-04-01 14:20:34] Se ha agregado 1 carta a la mano de Lucho
+[2024-04-01 14:20:34] Se ha agregado 1 carta a la mano de Aylen
+[2024-04-01 14:20:34] Se ha agregado 1 carta a la mano de Aylen
+[2024-04-01 14:20:34] Se ha agregado 1 carta a la mano de Aylen
+[2024-04-01 14:20:34] 
+Las cartas de Lucho son las siguientes:
+
+[2024-04-01 14:20:34] Carta {Raza=DWARF, Nombre='Thimuk', Alias='El Intrépido', Fecha Nacimiento=1978-10-21, Edad=45, Nivel=1, Vida=100, Fuerza=12, Velocidad=7, Destreza=8, Armadura=20}
+[2024-04-01 14:20:34] ----------
+
+[2024-04-01 14:20:34] Carta {Raza=ELF, Nombre='Galadria', Alias='El Bosque', Fecha Nacimiento=1935-05-13, Edad=88, Nivel=1, Vida=100, Fuerza=5, Velocidad=10, Destreza=16, Armadura=8}
+[2024-04-01 14:20:34] ----------
+
+[2024-04-01 14:20:34] Carta {Raza=WITCHER, Nombre='Malachius Thorne', Alias='El Invocador de Tormentas', Fecha Nacimiento=1844-08-28, Edad=179, Nivel=1, Vida=100, Fuerza=9, Velocidad=17, Destreza=13, Armadura=10}
+[2024-04-01 14:20:34] ----------
+
+[2024-04-01 14:20:34] 
+Las cartas de Aylen son las siguientes:
+
+[2024-04-01 14:20:34] Carta {Raza=HUMAN, Nombre='Cedric', Alias='El Noble', Fecha Nacimiento=2013-04-19, Edad=10, Nivel=1, Vida=100, Fuerza=6, Velocidad=13, Destreza=10, Armadura=14}
+[2024-04-01 14:20:34] ----------
+
+[2024-04-01 14:20:34] Carta {Raza=ELF, Nombre='Lirael', Alias='El Sigiloso', Fecha Nacimiento=1785-06-12, Edad=238, Nivel=1, Vida=100, Fuerza=5, Velocidad=13, Destreza=19, Armadura=5}
+[2024-04-01 14:20:34] ----------
+
+[2024-04-01 14:20:34] Carta {Raza=HUMAN, Nombre='Stark', Alias='El Valiente', Fecha Nacimiento=1990-04-22, Edad=33, Nivel=1, Vida=100, Fuerza=9, Velocidad=15, Destreza=15, Armadura=13}
+[2024-04-01 14:20:34] ----------
+
+[2024-04-01 14:20:34] Lucho seleccionó: Thimuk El Intrépido
+[2024-04-01 14:20:34] Aylen seleccionó: Cedric El Noble
+[2024-04-01 14:20:34] 
+----- Ronda 1 -----
+[2024-04-01 14:20:34] Es el turno de Cedric El Noble
+[2024-04-01 14:20:34] Cedric: 'Eres muy hábil esquivando!!!'
+[2024-04-01 14:20:34] Cedric El Noble ataca a Thimuk El Intrépido y causa -18 puntos de daño.
+[2024-04-01 14:20:34] La vida de Thimuk El Intrépido es de 82 puntos.
+[2024-04-01 14:20:34] Es el turno de Thimuk El Intrépido
+[2024-04-01 14:20:34] Thimuk: 'Su hacha se enciende y acesta un Golpe Crítico!!!'
+[2024-04-01 14:20:34] Thimuk El Intrépido ataca a Cedric El Noble y causa -44 puntos de daño.
+[2024-04-01 14:20:34] La vida de Cedric El Noble es de 59 puntos.
+[2024-04-01 14:20:34] 
+----- Ronda 2 -----
+[2024-04-01 14:20:34] Es el turno de Cedric El Noble
+[2024-04-01 14:20:34] Cedric: 'Eres muy hábil esquivando!!!'
+[2024-04-01 14:20:34] Cedric El Noble ataca a Thimuk El Intrépido y causa -19 puntos de daño.
+[2024-04-01 14:20:34] La vida de Thimuk El Intrépido es de 63 puntos.
+[2024-04-01 14:20:34] Es el turno de Thimuk El Intrépido
+[2024-04-01 14:20:34] Thimuk: 'Su hacha se enciende y acesta un Golpe Crítico!!!'
+[2024-04-01 14:20:34] Thimuk El Intrépido ataca a Cedric El Noble y causa -51 puntos de daño.
+[2024-04-01 14:20:34] La vida de Cedric El Noble es de 11 puntos.
+[2024-04-01 14:20:34] 
+----- Ronda 3 -----
+[2024-04-01 14:20:34] Es el turno de Cedric El Noble
+[2024-04-01 14:20:34] Cedric: 'Eres muy hábil esquivando!!!'
+[2024-04-01 14:20:34] Cedric El Noble ataca a Thimuk El Intrépido y causa -18 puntos de daño.
+[2024-04-01 14:20:34] La vida de Thimuk El Intrépido es de 45 puntos.
+[2024-04-01 14:20:34] Es el turno de Thimuk El Intrépido
+[2024-04-01 14:20:34] Thimuk: 'Su hacha se enciende y acesta un Golpe Crítico!!!'
+[2024-04-01 14:20:34] Thimuk El Intrépido ataca a Cedric El Noble y causa -52 puntos de daño.
+[2024-04-01 14:20:34] La vida de Cedric El Noble es de 0 puntos.
+[2024-04-01 14:20:34] Cedric El Noble ha sido derrotado!
+[2024-04-01 14:20:34] Thimuk ha subido de nivel a 2!
+[2024-04-01 14:20:34] 
+Las cartas de Lucho son las siguientes:
+
+[2024-04-01 14:20:34] Carta {Raza=ELF, Nombre='Galadria', Alias='El Bosque', Fecha Nacimiento=1935-05-13, Edad=88, Nivel=1, Vida=100, Fuerza=5, Velocidad=10, Destreza=16, Armadura=8}
+[2024-04-01 14:20:34] ----------
+
+[2024-04-01 14:20:34] Carta {Raza=WITCHER, Nombre='Malachius Thorne', Alias='El Invocador de Tormentas', Fecha Nacimiento=1844-08-28, Edad=179, Nivel=1, Vida=100, Fuerza=9, Velocidad=17, Destreza=13, Armadura=10}
+[2024-04-01 14:20:34] ----------
+
+[2024-04-01 14:20:34] Carta {Raza=DWARF, Nombre='Thimuk', Alias='El Intrépido', Fecha Nacimiento=1978-10-21, Edad=45, Nivel=2, Vida=45, Fuerza=12, Velocidad=7, Destreza=8, Armadura=20}
+[2024-04-01 14:20:34] ----------
+
+[2024-04-01 14:20:34] 
+Las cartas de Aylen son las siguientes:
+
+[2024-04-01 14:20:34] Carta {Raza=ELF, Nombre='Lirael', Alias='El Sigiloso', Fecha Nacimiento=1785-06-12, Edad=238, Nivel=1, Vida=100, Fuerza=5, Velocidad=13, Destreza=19, Armadura=5}
+[2024-04-01 14:20:34] ----------
+
+[2024-04-01 14:20:34] Carta {Raza=HUMAN, Nombre='Stark', Alias='El Valiente', Fecha Nacimiento=1990-04-22, Edad=33, Nivel=1, Vida=100, Fuerza=9, Velocidad=15, Destreza=15, Armadura=13}
+[2024-04-01 14:20:34] ----------
+
+[2024-04-01 14:20:34] Lucho seleccionó: Thimuk El Intrépido
+[2024-04-01 14:20:34] Aylen seleccionó: Lirael El Sigiloso
+[2024-04-01 14:20:34] 
+----- Ronda 1 -----
+[2024-04-01 14:20:34] Es el turno de Thimuk El Intrépido
+[2024-04-01 14:20:34] Thimuk: 'Jaaa!! Ese golpe lo has sentido!!!'
+[2024-04-01 14:20:34] Thimuk El Intrépido ataca a Lirael El Sigiloso y causa -31 puntos de daño.
+[2024-04-01 14:20:34] La vida de Lirael El Sigiloso es de 71 puntos.
+[2024-04-01 14:20:34] Es el turno de Lirael El Sigiloso
+[2024-04-01 14:20:34] Lirael: 'Los vientos han desviado mi disparo...'
+[2024-04-01 14:20:34] Lirael El Sigiloso ataca a Thimuk El Intrépido y causa 0 puntos de daño.
+[2024-04-01 14:20:34] La vida de Thimuk El Intrépido es de 45 puntos.
+[2024-04-01 14:20:34] 
+----- Ronda 2 -----
+[2024-04-01 14:20:34] Es el turno de Thimuk El Intrépido
+[2024-04-01 14:20:34] Thimuk: 'Su hacha se enciende y acesta un Golpe Crítico!!!'
+[2024-04-01 14:20:34] Thimuk El Intrépido ataca a Lirael El Sigiloso y causa -50 puntos de daño.
+[2024-04-01 14:20:34] La vida de Lirael El Sigiloso es de 24 puntos.
+[2024-04-01 14:20:34] Es el turno de Lirael El Sigiloso
+[2024-04-01 14:20:34] Lirael: 'Si que sabes defenderte!!!'
+[2024-04-01 14:20:34] Lirael El Sigiloso ataca a Thimuk El Intrépido y causa -5 puntos de daño.
+[2024-04-01 14:20:34] La vida de Thimuk El Intrépido es de 40 puntos.
+[2024-04-01 14:20:34] 
+----- Ronda 3 -----
+[2024-04-01 14:20:34] Es el turno de Lirael El Sigiloso
+[2024-04-01 14:20:34] Lirael: 'Si que sabes defenderte!!!'
+[2024-04-01 14:20:34] Lirael El Sigiloso ataca a Thimuk El Intrépido y causa -5 puntos de daño.
+[2024-04-01 14:20:34] La vida de Thimuk El Intrépido es de 35 puntos.
+[2024-04-01 14:20:34] Es el turno de Thimuk El Intrépido
+[2024-04-01 14:20:34] Thimuk: 'Quien ha sido el enano que forjo esa armadura?!!!'
+[2024-04-01 14:20:34] Thimuk El Intrépido ataca a Lirael El Sigiloso y causa -15 puntos de daño.
+[2024-04-01 14:20:34] La vida de Lirael El Sigiloso es de 10 puntos.
+[2024-04-01 14:20:34] 
+----- Ronda 4 -----
+[2024-04-01 14:20:34] Es el turno de Lirael El Sigiloso
+[2024-04-01 14:20:34] Lirael: 'Si que sabes defenderte!!!'
+[2024-04-01 14:20:34] Lirael El Sigiloso ataca a Thimuk El Intrépido y causa -5 puntos de daño.
+[2024-04-01 14:20:34] La vida de Thimuk El Intrépido es de 30 puntos.
+[2024-04-01 14:20:34] Es el turno de Thimuk El Intrépido
+[2024-04-01 14:20:34] Thimuk: 'Su hacha se enciende y acesta un Golpe Crítico!!!'
+[2024-04-01 14:20:34] Thimuk El Intrépido ataca a Lirael El Sigiloso y causa -45 puntos de daño.
+[2024-04-01 14:20:34] La vida de Lirael El Sigiloso es de 0 puntos.
+[2024-04-01 14:20:34] Lirael El Sigiloso ha sido derrotado!
+[2024-04-01 14:20:34] No se puede recuperar una carta en este momento. Se restaurará la vida de Thimuk El Intrépido.
+[2024-04-01 14:20:34] 
+Las cartas de Lucho son las siguientes:
+
+[2024-04-01 14:20:34] Carta {Raza=ELF, Nombre='Galadria', Alias='El Bosque', Fecha Nacimiento=1935-05-13, Edad=88, Nivel=1, Vida=100, Fuerza=5, Velocidad=10, Destreza=16, Armadura=8}
+[2024-04-01 14:20:34] ----------
+
+[2024-04-01 14:20:34] Carta {Raza=WITCHER, Nombre='Malachius Thorne', Alias='El Invocador de Tormentas', Fecha Nacimiento=1844-08-28, Edad=179, Nivel=1, Vida=100, Fuerza=9, Velocidad=17, Destreza=13, Armadura=10}
+[2024-04-01 14:20:34] ----------
+
+[2024-04-01 14:20:34] Carta {Raza=DWARF, Nombre='Thimuk', Alias='El Intrépido', Fecha Nacimiento=1978-10-21, Edad=45, Nivel=2, Vida=100, Fuerza=12, Velocidad=7, Destreza=8, Armadura=20}
+[2024-04-01 14:20:34] ----------
+
+[2024-04-01 14:20:34] 
+Las cartas de Aylen son las siguientes:
+
+[2024-04-01 14:20:34] Carta {Raza=HUMAN, Nombre='Stark', Alias='El Valiente', Fecha Nacimiento=1990-04-22, Edad=33, Nivel=1, Vida=100, Fuerza=9, Velocidad=15, Destreza=15, Armadura=13}
+[2024-04-01 14:20:34] ----------
+
+[2024-04-01 14:20:34] Lucho seleccionó: Malachius Thorne El Invocador de Tormentas
+[2024-04-01 14:20:34] Aylen seleccionó: Stark El Valiente
+[2024-04-01 14:20:34] 
+----- Ronda 1 -----
+[2024-04-01 14:20:34] Es el turno de Stark El Valiente
+[2024-04-01 14:20:34] Stark: 'El brillo de su espada incandila, Golpe Crítico!!!'
+[2024-04-01 14:20:34] Stark El Valiente ataca a Malachius Thorne El Invocador de Tormentas y causa -43 puntos de daño.
+[2024-04-01 14:20:34] La vida de Malachius Thorne El Invocador de Tormentas es de 59 puntos.
+[2024-04-01 14:20:34] Es el turno de Malachius Thorne El Invocador de Tormentas
+[2024-04-01 14:20:34] Malachius Thorne: 'Su ki es muy alto!!!'
+[2024-04-01 14:20:34] Malachius Thorne El Invocador de Tormentas ataca a Stark El Valiente y causa -14 puntos de daño.
+[2024-04-01 14:20:34] La vida de Stark El Valiente es de 87 puntos.
+[2024-04-01 14:20:34] 
+----- Ronda 2 -----
+[2024-04-01 14:20:34] Es el turno de Malachius Thorne El Invocador de Tormentas
+[2024-04-01 14:20:34] Malachius Thorne: 'Su ki es muy alto!!!'
+[2024-04-01 14:20:34] Malachius Thorne El Invocador de Tormentas ataca a Stark El Valiente y causa -22 puntos de daño.
+[2024-04-01 14:20:34] La vida de Stark El Valiente es de 67 puntos.
+[2024-04-01 14:20:34] Es el turno de Stark El Valiente
+[2024-04-01 14:20:34] Stark: 'El brillo de su espada incandila, Golpe Crítico!!!'
+[2024-04-01 14:20:34] Stark El Valiente ataca a Malachius Thorne El Invocador de Tormentas y causa -38 puntos de daño.
+[2024-04-01 14:20:34] La vida de Malachius Thorne El Invocador de Tormentas es de 22 puntos.
+[2024-04-01 14:20:34] 
+----- Ronda 3 -----
+[2024-04-01 14:20:34] Es el turno de Malachius Thorne El Invocador de Tormentas
+[2024-04-01 14:20:34] Malachius Thorne: 'Su ki es muy alto!!!'
+[2024-04-01 14:20:34] Malachius Thorne El Invocador de Tormentas ataca a Stark El Valiente y causa -20 puntos de daño.
+[2024-04-01 14:20:34] La vida de Stark El Valiente es de 48 puntos.
+[2024-04-01 14:20:34] Es el turno de Stark El Valiente
+[2024-04-01 14:20:34] Stark: 'El brillo de su espada incandila, Golpe Crítico!!!'
+[2024-04-01 14:20:34] Stark El Valiente ataca a Malachius Thorne El Invocador de Tormentas y causa -45 puntos de daño.
+[2024-04-01 14:20:34] La vida de Malachius Thorne El Invocador de Tormentas es de 0 puntos.
+[2024-04-01 14:20:34] Malachius Thorne El Invocador de Tormentas ha sido derrotado!
+[2024-04-01 14:20:34] Stark ha subido de nivel a 2!
+[2024-04-01 14:20:34] 
+Las cartas de Lucho son las siguientes:
+
+[2024-04-01 14:20:34] Carta {Raza=ELF, Nombre='Galadria', Alias='El Bosque', Fecha Nacimiento=1935-05-13, Edad=88, Nivel=1, Vida=100, Fuerza=5, Velocidad=10, Destreza=16, Armadura=8}
+[2024-04-01 14:20:34] ----------
+
+[2024-04-01 14:20:34] Carta {Raza=DWARF, Nombre='Thimuk', Alias='El Intrépido', Fecha Nacimiento=1978-10-21, Edad=45, Nivel=2, Vida=100, Fuerza=12, Velocidad=7, Destreza=8, Armadura=20}
+[2024-04-01 14:20:34] ----------
+
+[2024-04-01 14:20:34] 
+Las cartas de Aylen son las siguientes:
+
+[2024-04-01 14:20:34] Carta {Raza=HUMAN, Nombre='Stark', Alias='El Valiente', Fecha Nacimiento=1990-04-22, Edad=33, Nivel=2, Vida=48, Fuerza=9, Velocidad=15, Destreza=15, Armadura=13}
+[2024-04-01 14:20:34] ----------
+
+[2024-04-01 14:20:34] Lucho seleccionó: Thimuk El Intrépido
+[2024-04-01 14:20:34] Aylen seleccionó: Stark El Valiente
+[2024-04-01 14:20:34] 
+----- Ronda 1 -----
+[2024-04-01 14:20:34] Es el turno de Stark El Valiente
+[2024-04-01 14:20:34] Stark: 'Eres muy hábil esquivando!!!'
+[2024-04-01 14:20:34] Stark El Valiente ataca a Thimuk El Intrépido y causa -9 puntos de daño.
+[2024-04-01 14:20:34] La vida de Thimuk El Intrépido es de 91 puntos.
+[2024-04-01 14:20:34] Es el turno de Thimuk El Intrépido
+[2024-04-01 14:20:34] Golpe letal!!!
+[2024-04-01 14:20:34] Thimuk El Intrépido ataca a Stark El Valiente y causa -59 puntos de daño.
+[2024-04-01 14:20:34] La vida de Stark El Valiente es de 0 puntos.
+[2024-04-01 14:20:34] Stark El Valiente ha sido derrotado!
+[2024-04-01 14:20:34] Thimuk ha subido de nivel a 3!
+[2024-04-01 14:20:34] 
+Las cartas de Lucho son las siguientes:
+
+[2024-04-01 14:20:34] Carta {Raza=ELF, Nombre='Galadria', Alias='El Bosque', Fecha Nacimiento=1935-05-13, Edad=88, Nivel=1, Vida=100, Fuerza=5, Velocidad=10, Destreza=16, Armadura=8}
+[2024-04-01 14:20:34] ----------
+
+[2024-04-01 14:20:34] Carta {Raza=DWARF, Nombre='Thimuk', Alias='El Intrépido', Fecha Nacimiento=1978-10-21, Edad=45, Nivel=3, Vida=91, Fuerza=12, Velocidad=7, Destreza=8, Armadura=20}
+[2024-04-01 14:20:34] ----------
+
+[2024-04-01 14:20:34] 
+Las cartas de Aylen son las siguientes:
+
+[2024-04-01 14:20:34] Sin cartas en la mano de Aylen
+[2024-04-01 14:20:34] Fin del Juego
+[2024-04-01 14:20:34] Lucho ha conquistado el trono de hierro!

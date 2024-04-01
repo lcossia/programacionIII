@@ -1,0 +1,15 @@
+PARTIDA RÁPIDA
+
+En este modo de juego el azar sera el protagonista.
+Se crearan 2 mazos de 15 cartas para cada jugador y se repartiran 3
+cartas para cada uno.
+Se eligirá al azar una carta de cada mano del jugador para que se enfrenten.
+El combate durará 7 rondas.
+La carta que resulte derrotada se removerá de la mano del jugador.
+La carta vencedora arecibirá una mejora (aumento de nivel, salud restaurada
+o se revivirá una carta del cementerio).
+El jugador que pierda todas las cartas de su mano perderá la batalla.
+El jugador que deje sin cartas en la mano a su contrincante sumara un punto
+y se volveran a repartir cartas hasta completar la mano de 3 cartas.
+El primero de los jugadores que pierda todas sus cartas de su mazo y mano,
+detendrá los combates y se decretará quien ha sido el vencedor.
